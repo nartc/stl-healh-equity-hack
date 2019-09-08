@@ -51,44 +51,20 @@ client.connect(err => {
           };
         }
 
-        // reqJson.data[doc.EIN] = {
-        //   hours: {
-        //     sunday: {
-        //       opens_at: '00:00',
-        //       closes_at: '00:00'
-        //     },
-        //     monday: {
-        //       opens_at: '09:00',
-        //       closes_at: '17:00'
-        //     },
-        //     tuesday: {
-        //       opens_at: '09:00',
-        //       closes_at: '17:00'
-        //     },
-        //     wednesday: {
-        //       opens_at: '09:00',
-        //       closes_at: '17:00'
-        //     },
-        //     thursday: {
-        //       opens_at: '09:00',
-        //       closes_at: '17:00'
-        //     },
-        //     friday: {
-        //       opens_at: '09:00',
-        //       closes_at: '17:00'
-        //     },
-        //     saturday: {
-        //       opens_at: '00:00',
-        //       closes_at: '00:00'
-        //     }
-        //   }
-        // };
-
-        if (doc.WEBSITE && doc.WEBSITE !== 'N/A') {
+        if (
+          doc.WEBSITE &&
+          doc.WEBSITE !== 'N/A' &&
+          doc.WEBSITE !== 'NONE' &&
+          doc.WEBSITE !== 'None'
+        ) {
           reqJson.data[doc.EIN]['url'] = doc.WEBSITE;
         }
 
-        if (!!doc.PHONE_NUM && doc.PHONE_NUM !== 'undefined') {
+        if (
+          !!doc.PHONE_NUM &&
+          doc.PHONE_NUM !== 'undefined' &&
+          doc.PHONE_NUM !== '0'
+        ) {
           reqJson.data[doc.EIN]['phone'] = doc.PHONE_NUM;
         }
 
@@ -101,14 +77,6 @@ client.connect(err => {
         } else if (!!doc.NTEE_CD) {
           reqJson.data[doc.EIN]['services'] = [doc.NTEE_CD.substr(0, 3)];
         }
-
-        // if (!!doc.ACTIVITY_CODES && doc.ACTIVITY_CODES.length) {
-        //   const validCodes = _codes.map(c => c.code).filter(code => doc.ACTIVITY_CODES.includes(code));
-        //   if (validCodes.length) {
-        //     reqJson.data[doc.EIN]['services'] = reqJson.data[doc.EIN]['services'] ? [...reqJson.data[doc.EIN]['services'], ...validCodes] : [...validCodes];
-        //   }
-
-        // }
 
         eins.push(doc.EIN);
       });
