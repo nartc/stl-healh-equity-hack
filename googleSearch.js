@@ -1,15 +1,3 @@
-// const fetch = require('node-fetch');
-
-// const apiKey = "AIzaSyDyaiRUCNHf8JEV6GXWv0DFuecyNLPQaJQ";
-// const cx = "012813650112916212198:sparh37ot0k";
-// const baseUrl = "https://www.googleapis.com/customsearch/v1?key=AIzaSyDyaiRUCNHf8JEV6GXWv0DFuecyNLPQaJQ&cx=012813650112916212198:sparh37ot0k&gl=us&lr=lang_en&q={q}";
-
-// const searchUrl = baseUrl.replace('{q}', "AAO DISASTER RELIEF FUND");
-
-// fetch(searchUrl)
-//     .then(res => res.json())
-//     .then(console.log);
-
 const puppeteer = require('puppeteer');
 const mongo = require('mongodb');
 
