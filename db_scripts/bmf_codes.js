@@ -13,11 +13,11 @@ db.bmfs.find({
         { ACTIVITY: { $eq: "0" } }
     ]
 }).forEach((it) => {
-    print(it.EIN, it.ACTIVITY, it.ACTIVITY_CODES, it.NTEE_CD);
+    // print(it.EIN, it.ACTIVITY, it.ACTIVITY_CODES, it.NTEE_CD);
+        
     const shouldPush = (it.NTEE_CD && !it.ACTIVITY && nteesArr.some(n => it.NTEE_CD.startsWith(n)))
         || (it.ACTIVITY && !it.NTEE_CD && codesArr.some(c => it.ACTIVITY_CODES && it.ACTIVITY_CODES.includes(c)))
         || (it.ACTIVITY && it.NTEE_CD && (nteesArr.some(n => it.NTEE_CD.startsWith(n)) || codesArr.some(c => it.ACTIVITY_CODES && it.ACTIVITY_CODES.includes(c))));
-
 
     if (shouldPush) {
         result.push(it);

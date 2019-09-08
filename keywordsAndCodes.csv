@@ -1,0 +1,3192 @@
+code,keyword
+B20,Alternative Education
+B20,Boarding Schools
+B20,Child Development Education Issues
+B20,Community-Based Schools
+B20,Community Learning Centers
+B20,Extended-Service Schools
+B20,Full-Service Schools
+B20,Home-Based Education
+B20,Home Education
+B20,Home Schooling
+B20,Montessori Schools
+B20,Nontraditional Schools
+B20,Separately Organized Middle Schools
+B20,Yeshivas
+B21,Early Childhood Education
+B21,Head Start
+B21,Kindergartens
+B21,Nursery Schools
+B21,Preschool Education
+B21,Preschools
+B21,School Readiness Programs
+B24,Elementary Schools
+B24,Grades 1-4
+B24,Grades 1-6
+B24,Grades 1-8
+B24,K-4
+B24,K-6
+B24,K-8
+B24,Primary Schools
+B28,Bilingual Education
+B28,Blind Children
+B28,Children with Hearing Disabilities
+B28,Children with Learning Disabilities
+B28,Deaf Children
+B28,Developmentally Disabled Children
+B28,Gifted and Talented Schools
+B28,Gifted Children
+B28,Gifted Schools
+B28,Mentally Retarded Children
+B28,Special Education Institutions
+B28,Special Schools
+B28,TAG Schools
+B28,Talented and Gifted Schools
+B28,Visually Impaired Children
+B25,College Preparatory Schools
+B25,Grades 7-12
+B25,Grades 8-12
+B25,Grades 9-12
+B25,Grades 10-12
+B25,High Schools
+B25,Junior High Schools
+B25,Intermediate Schools
+B25,Pre-Collegiate Education
+B25,Secondary Schools
+B25,Senior High Schools
+B29,Charter Schools
+B30,Auto Mechanics
+B30,Building Trades
+B30,Cosmetology
+B30,High School Vocational Education
+B30,Industrial
+B30,Manufacturing
+B30,Post-Secondary Technical Schools
+B30,Technical Schools
+B30,Trade Schools
+B30,Vocational Centers
+B30,Vocational Schools
+B30,Vocational/Technical Schools
+B30,Vocational/Trade High Schools
+B40,Institutions of Higher Learning
+B42,Year Colleges
+B41,Year Colleges
+B42,Baccalaureate Degrees
+B42,Bachelor Degrees
+B42,Bachelor of Arts Degrees
+B42,Bachelor of Science Degrees
+B42,Black Colleges
+B42,Deaf Colleges
+B42,Four-Year Colleges
+B42,Liberal Arts Colleges
+B42,Undergraduate Colleges
+B41,Associates in Arts Certificates
+B41,Community Colleges
+B41,Junior Colleges
+B41,Two-Year Colleges
+B60,Adult Basic Education
+B60,Adult Education
+B60,Adult High School Diplomas
+B60,Adult Literacy Councils
+B60,Adult Literacy Education
+B60,Basic Writing Skills
+B60,Basic Reading Skills
+B60,Compensatory Learning
+B60,Continuing Education
+B60,Elderhostels
+B60,English as a Second Language
+B60,ESL Instruction
+B60,Fundamental Education (Adults)
+B60,GED Instruction
+B60,General Educational Development Instruction
+B60,High School Equivalency
+B60,Institutes for Learning in Retirement
+B60,Lifelong Learning
+B60,Lifetime Learning
+B70,Academic Libraries
+B70,Academic Research Libraries
+B70,Archival Work
+B70,Archives
+B70,Archivists
+B70,Book and Paper Conservation
+B70,Book Collections
+B70,College Libraries
+B70,College Research Libraries
+B70,Corporate Libraries
+B70,Depository Libraries
+B70,Electronic Libraries
+B70,Information Centers
+B70,Law Libraries
+B70,Law School Libraries
+B70,Legal Libraries
+B70,Libraries
+B70,Library Operation/Programs
+B70,Media Centers
+B70,Medical Association Libraries
+B70,Medical Libraries
+B70,Medical Society Libraries
+B70,Military Base Libraries
+B70,Municipal Libraries
+B70,National Libraries
+B70,Online Vendor Services
+B70,Presidential Libraries
+B70,Public Libraries
+B70,Reference Services
+B70,Religious Libraries
+B70,Research Libraries
+B70,School Libraries
+B70,School Library Media Centers
+B70,Special Libraries
+B70,State Libraries
+B70,University Libraries
+B70,University Research Libraries
+B70,Virtual Libraries
+B90,Achievement Testing
+B90,Advanced Placement Testing
+B90,Afterschool Programs
+O50,Afterschool Programs
+B90,After-School Enrichment Programs
+B90,After-School Programs
+O50,After-School Programs
+B90,After School Programs
+O50,After School Programs
+B90,American College Test
+B90,Aptitude Testing
+B90,Business in Schools Programs
+B90,Cooperative/Community Education
+B90,College Credit by Examination
+B90,College Entrance Examinations
+B90,College Placement Testing
+B90,College Preparatory Examinations
+B90,Continuation High Schools
+B90,Dental Admission Test
+B90,Distance Education
+B90,Distance Learning
+B90,Drop Out Prevention
+B90,Drop-Out Prevention/Retention Services
+B90,Dropout Prevention
+B90,Educational Testing
+B90,Entrance Examinations
+B90,Equivalency Tests
+B90,Extra-School Settings
+B90,Graduate Management Admission Testing
+B90,Graduate Program Examinations
+B90,Graduate Record Examinations
+B90,Grammar Hotlines
+B90,High School Competency Testing
+B90,Homework Assistance
+B90,Homework Help
+B90,Homework Hotlines
+B90,Intelligence Testing
+B90,Law School Admission Testing
+B90,Medical College Admission Testing
+B90,Optometry Admission Testing
+B90,Out-of-School Hours Programs
+B90,Preliminary Scholastic Achievement Testing
+B90,Private School Placement
+B90,"Public, Private Partnerships for Education"
+B90,Return to Education Support
+B90,Scholastic Aptitude Testing
+B90,Scholastic Assessment Testing
+B90,Special Education Assessment
+B90,Student Retention
+B90,Student Testing
+B90,Study Skills Assistance
+B90,Subject-Specific Tutoring
+B90,Truancy Counseling
+B90,Tutoring
+B90,Century Community Learning Centers Initiative Programs
+C20,Acid Rain
+C20,Air Pollution
+C20,Asbestos Removal
+C20,Asbestos Testing
+C20,Atmospheric Contamination
+C20,Carbon Monoxide Testing
+C20,Clean Air
+C20,Climatic Change
+C20,Drinking Water Testing
+C20,Environmental Hazards Cleanup
+C20,Environmental Hazards Control
+C20,Environmental Pollution
+C20,Environmental Sanitation
+C20,Global Warming
+C20,Greenhouse Effect
+C20,Greenhouse Gases
+C20,Hazardous Materials Cleanup
+C20,Hazardous Materials Control
+C20,Hazardous Materials Monitoring
+C20,Hazardous Materials Transportation
+C20,Hazardous Wastes
+C20,Household Hazardous Wastes
+C20,Indoor Air Pollution
+C20,Industrial Hazardous Wastes
+C20,Landfills
+C20,Lead Paint
+C20,Lead Testing
+C20,"Medical Waste Disposal, Noise Pollution"
+C20,Nuclear Wastes
+C20,Oil Spill Cleanup
+C20,Pesticides
+C20,Pollution Abatement
+C20,Pollution Control
+C20,Poor Air Quality
+C20,Radiation Control
+C20,Radiation Testing
+C20,Radon Testing
+C20,Rising Sea Levels
+C20,Sanitation
+C20,Sewage
+C20,Sludge Sites
+C20,Smog
+C20,Soil Contaminant Testing
+C20,Soil Testing
+C20,Solid Waste Management
+C20,Tap Water Testing
+C20,Toxic Substances
+C20,Toxic Wastes
+C20,Waste Disposal
+C20,Waste Management
+C20,Waste Spills
+C20,Waste Transport
+C20,Water Pollution
+C20,Water Pollution Control
+E22,Acute Care Critical Access Hospitals
+E22,Acute Care Hospitals
+E22,Acute Care Medical Faciltities
+E22,Acute Care Medical Centers
+E22,Cardiac Intensive Care
+E22,Coronary Intensive Care
+E22,Emergency Rooms
+E22,Emergicenters
+E22,General Acute Care Hospitals
+E22,General Hospitals
+E22,General Intensive Care
+E22,High Risk Infant Unit Care
+E22,Hospital Emergency Care
+E22,Hospital-Based Emergency Care
+E22,ICUs
+E22,Inpatient Hospital Care
+E22,Intensive Care
+E22,Medical Centers
+E22,Military Hospitals
+E22,Neonatal Intensive Care
+E22,Neurological Intensive Care
+E22,Osteopathic hospitals
+E22,Pediatric Intensive Care
+E22,Premature Nurseries
+E22,Respiratory Intensive Care
+E22,State Hospitals
+E22,Subacute Care Hospitals
+E22,Surgical Intensive Care
+E22,Trauma Centers
+E22,Veterans Hospitals 
+B94,Congress of Parents & Teachers
+B94,Congress of Parents and Teachers
+B94,Parent Teacher and Students
+B94,Parent Teacher Associations
+B94,Parent Teacher Organizations
+B94,PTA
+B94,PTO
+B94,PTSA
+B94,PTSO
+B50,Accounting Schools
+B50,Advertising Schools
+B50,Agriculture Schools
+B50,Architectural Schools
+B50,Business Administration Schools
+B50,Business Schools
+B50,Chiropractic Teaching Facilities
+B50,Dental Schools
+B50,Divinity Schools
+B50,Engineering Schools
+B50,Fine Arts Schools
+B50,Health Sciences Schools
+B50,Hotel Administration Schools
+B50,Information Science Schools
+B50,Journalism Schools
+B50,Law Schools
+B50,Legal Education
+B50,Library and Information Science Schools
+B50,Library Schools
+B50,Management Schools
+B50,Marketing Schools
+B50,Medical Schools
+B50,Nursing Schools
+B50,Professional Schools
+B50,Public Administration Schools
+B50,Public Health Administration Schools
+B50,Public Health Schools
+B50,Schools of Education
+B50,Schools of Teaching
+B50,Seminaries / Seminary Schools
+B50,Social Work Schools
+B50,Teacher Education
+B50,Theological Schools
+B50,Theology Schools
+B50,Veterinary Medicine Schools
+B50,Veterinary Schools
+B50,Yeshiva
+E31,Group Health Practices
+E31,Health Maintenance Organizations
+E31,HMOs
+E31,Managed Care
+E31,Managed Health Care
+E31,Primary Health Care Providers
+E40,Abortion Clinics
+E40,Alternative Birthing Services
+E40,Birth Education
+E40,Birth Orientation
+E40,Birthing Centers
+E40,Childbirth Preparation Centers
+E40,Delivery/Childbirth Services
+E40,Early Pregnancy Classes
+E40,Fertility Treatment Centers
+E40,Genetic Counseling
+E40,Human Sexuality Counseling
+E40,Human Sexuality Education
+E40,Infertility Treatment
+E40,Lamaze
+E40,Maternal and Infant Care
+E40,Maternity Care
+E40,Midwifery
+E40,Natural Childbirth Education
+E40,Neonatal Care
+E40,Newborn Infant Care
+E40,Obstetrics and Gynecology Clinics
+E40,Post Abortion Care
+E40,Postpartum Care
+E40,Pregnancy Termination Clinics
+E40,Prenatal Care Centers
+E40,Prenatal Counseling
+E40,Pro-Choice Counseling
+E40,Pro-Life Counseling
+E40,Right to Life Counseling
+E40,Safe Sex
+E40,Sex Education
+E40,Voluntary Sterilization Centers
+E40,Sterilization
+E40,Womens Health Centers
+E60,Cooperative Hospital Services
+E60,Pharmaceutical Services
+E60,Pharmacies
+E60,Pharmacology
+E60,"Shock, Trauma Programs"
+C60,Bush Survival
+C60,Ecotourism
+C60,Environmental Education
+C60,Environmental Interpretive Centers
+C60,Nature Centers
+C60,Nature Walks
+C60,Orienteering
+C60,Outdoor Education
+C60,Outdoor Survival
+C60,Outdoor Survival Skills
+C60,Outward Bound
+C60,Wilderness Survival Skills
+E80,Advance Care Planning
+E80,Advance Directives Planning
+E80,Advance Health Care Planning
+E80,Advance Medical Planning
+E80,Black Lung Benefits Trust
+E80,End of life Care Planning
+E80,End of life Planning
+E80,End-of-life Care Planning
+E80,End-of-life Planning
+E80,AIDS Drug Assistance
+E80,Black Lung Benefit Trusts
+E80,Health Care Cost Containment
+E80,Bioethics
+E80,Health Care Costs
+E80,Health Care Economics
+E80,Health Care Fees & Charges
+E80,Health Care Financing
+E80,Health Insurance
+E80,Health Insurance Counseling
+E80,Health Insurance Premium Assistance
+E80,HMO Financing
+E80,Hospital Bill Assistance
+E80,Medical Bioethics
+E80,Medical Care Costs
+E80,Medical Ethics
+E80,Medical Expense Assistance
+E80,Medical Sociology
+E80,Medicare Counseling
+E80,Medigap Insurance Counseling
+E80,Medication Expense Assistance
+E80,Patient Care Planning
+E80,Patient Services
+E80,Prepaid Health Care
+E80,Prescription Drug Costs
+E80,Prescription Expense Assistance
+E80,Ryan White Consortium
+E80,State-Sponsored High-Risk Health Coverage
+E80,Treatment Costs
+E80,Terminal Care Planning
+E62,Advanced Life Support
+E62,Ambulance
+E62,Ambulance Transport
+E62,"Basic Life Support,"
+E62,Emergency Medical Air Transport
+E62,Emergency Medical Care
+E62,Emergency Medical Services
+E62,Emergency Medical Technicians
+E62,Emergency Medical Transport
+E62,Emergency Medical Vehicle
+E62,EMS
+E62,EMT
+E62,First Aid Squads
+E62,First Responders
+E62,Life Squad
+E62,Lifelines
+E62,Mercy Flights
+E62,Rescue Squads
+M23,Rescue Squads
+E62,Trauma Care
+E62,Trauma Systems
+E24,Cancer Hospitals
+E24,Childrens Hospitals
+E24,Extended Care Hospitals
+E24,Eye Hospitals
+E24,Maternity Hospitals
+E24,Orthopedic Hospitals
+E24,Rehabilitation Hospitals
+E24,Shriners Hospitals
+E24,Specialty Hospitals
+E24,Womens Hospitals
+F31,Hospitals for the Mentally Ill
+F31,Inpatient Mental Health Facilities
+F31,Inpatient Mental Health Treatment
+F31,Psychiatric Hospitals
+F31,State Mental Hospitals
+F50,Addictive Behavior
+F50,Compulsive Behavior
+F50,Computer Addiction
+F50,Pathological Cravings
+F50,Shopaholic
+F50,Workaholic
+E42,Birth Control
+E42,Birth Spacing
+E42,Contraception
+E42,Contraceptives
+E42,Family Planning
+E42,Natural Family Planning
+E42,Planned Parenthood
+E42,Pregnancy Prevention
+F70,Acute Stress Disorder
+F70,ADD
+F70,ADHD
+F70,Adjustment Disorders
+F70,Affective Disorders
+F70,Agoraphobia
+F70,Amnesia Antisocial Personality Disorder
+F70,Anxiety Disorders
+F70,Attention Deficit & Disruptive Behavior Disorders
+F70,Attention Deficit Disorders
+F70,Attention-Deficiency/Hyperactivity Disorder
+F70,Avoidant Personality Disorder
+F70,Bipolar Disorder
+F70,Body Dymorphic Disorder
+F70,Borderline Personality Disorder
+F70,Breathing-Related Sleep Disorder
+F70,Briquet Syndrome
+F70,Capgras Syndrome
+F70,Catatonic Schizophrenia
+F70,Child Mental Disorders
+F70,Childhood Mental Health Disorders
+F70,Circadian Rhythm Sleep Disorder
+F70,Clereambault Syndrome
+F70,Cognitive Disorders
+F70,Conduct Disorders
+F70,Conversion Disorder
+F70,Cyclothymic Disorder
+F70,Delirium
+F70,Delusional Disorder
+F70,Dementia
+F70,Dependent Personality Disorder
+F70,Depersonalization Disorder
+F70,Depression
+F70,Disorganized Schizophrenia
+F70,Disruptive Behavior Disorders
+F70,Dissociative Amnesia
+F70,Dissociative Disorders
+F70,Dissociative Identity Disorder
+F70,Dysthymic Disorder
+F70,Encopresis
+F70,Enuresis
+G40,Enuresis
+F70,Exhibitionism
+F70,Factitious Disorders
+F70,False Memory Syndrome
+F70,Fetishism
+F70,Frotteurism
+F70,Fugue
+F70,GAD: Ganser Syndrome
+F70,Gender Dysphoria
+F70,Gender Identity Disorder
+F70,Generalized Anxiety Disorders
+F70,Histrionic Personality Disorder
+F70,Hypersomnia
+F70,Hypochondria
+F70,Hypocondriasis
+F70,Hysteria
+F70,Insomnia
+F70,Intermittent Explosive Disorder
+F70,Kleptomania
+F70,Kluver-Bucy Syndrome
+F70,Manic Depression
+F70,Masochism
+F70,Mental Disorders
+F70,Mental Illness
+F70,Mood Disorders
+F70,Multiple Personality Disorder
+F70,Munchausen Syndrome
+F70,Mutism
+G80,Mutism
+F70,Narcissistic Personality Disorder
+F70,Nightmare Disorder
+F70,Obsessive-Compulsive Disorders
+F70,Obsessive-Compulsive Personality Disorder
+F70,OCD
+F70,ODD
+F70,Oppositional Defiant Disorder
+F70,Organic Mental Disorders
+F70,Pain Disorders
+F70,Panic Attacks
+F70,Panic Disorder
+F70,Paranoid Personality Disorder
+F70,Paranoid Schizophrenia
+F70,Paraphilias
+F70,Parasomnias
+F70,Passive-Aggressive Personality Disorder
+F70,Pedophilia
+F70,Personality Disorders
+F70,Postpartum Depression
+F70,Posttraumatic Stress Syndrome
+F70,Pseudodementia
+F70,Pseudopsychosis
+F70,Psychiatric Illness
+F70,Psychological Sexual Dysfunctions
+F70,Psychotic Disorders
+F70,Psychotic Disorders
+F70,Pyromania
+F70,Sadism
+F70,Schizoid Personality Disorder
+F70,Schizophrenia
+F70,Schizotypal Personality Disorder
+F70,Seasonal Affective Disorder
+F70,Separation Anxiety
+F70,Sexual & Gender Identity Disorders
+F70,Sexual Arousal Disorders
+F70,Sexual Desires Disorders
+F70,Sexual Masochism
+F70,Sexual Sadism
+F70,Shared Paranoid Schizophrenia
+F70,Sleep Disorders
+F70,Sleep Terror Disorder
+F70,Sleepwalking Disorders
+F70,Social Phobia
+F70,Somatoform Disorders
+F70,Stereotypic Movement Disorder
+F70,Stress Related Disorders
+F70,Tic Disorders
+F70,Tourette Syndrome
+F70,Transvestic Fetishism
+F70,Traumatic Psychoses
+F70,Trichotillomania
+F70,Vaginismus
+F70,Voyeurism
+F21,Addiction
+F22,Addiction
+F20,Addiction
+F21,Alcohol Abuse Awareness
+F21,Alcohol Abuse Education
+F21,Alcohol Abuse Prevention
+F21,Alcoholism
+F20,Alcoholism
+G80,Alcoholism
+F21,Chemical Dependency
+F20,Chemical Dependency
+F21,D.A.R.E.
+F21,DARE
+F21,Drug Abuse Awareness
+F21,Drug Abuse Education
+F21,Drug Abuse Prevention
+F21,Drug Abuse Resistance Education
+F21,Drug Addiction
+F22,Drug Addiction
+F20,Drug Addiction
+F21,Substance Abuse Awareness
+F21,Substance Abuse Education
+F21,Substance Abuse Prevention
+F21,Substance Dependence
+F22,Substance Dependence
+F20,Substance Dependence
+E65,Anatomical Gifts
+E65,Body Donations
+E65,Bone Banks
+E65,Bone Marrow Donations
+E65,Ear Banks
+E65,Eye Banks
+E65,Organ Banks
+E65,Organ Donations
+E65,Tissue Banks
+E65,Tissue Donations
+G30,Bladder Cancer
+G30,Bone Cancer
+G30,Burkitts Lymphoma
+G30,Cancer
+G30,Carcinoma
+G30,Cervical Cancer
+G30,Colon Cancer
+G30,Colorectal Cancer
+G30,Fallopian Tube Cancer
+G30,Kaposi Sarcoma
+G30,Leukemia
+G30,Liver Cancer
+G30,Lung Cancer
+G30,Lymphoma
+G30,Melanoma
+G30,Multiple Myeloma
+G30,Oral Cancer
+G30,Ovarian Cancer
+G30,Pagets Disease
+G30,Pancreatic Cancer
+G30,Prostate Cancer
+G30,Rectal Cancer
+G30,Renal Cancer
+G30,Sarcoma
+G30,Skin Cancer
+G30,Stomach Cancer
+G30,Testicular Cancer
+G30,Uterine Cancer
+G30,Vaginal Cancer
+G30,Vulva Cancer
+G30,Womens Cancer
+G44,Anuria
+G44,Cystic Kidney
+G44,Fanconi Syndrome
+G44,Glomerulonephritis
+G44,Hemolytic-Uremic Syndrome
+G44,Hepatorenal Syndrome
+G44,Hydronephosis
+G44,Kidney Calculi
+G44,Kidney Cortex Necrosis
+G44,Kidney Failure
+G44,Kidney Papillary Necrosis
+G44,Kidney Stones
+G44,Nephritis
+G44,Nephrocalcinosis
+G44,Nephrosclerosis
+G44,Nephrosis
+G44,Nephrotic Syndrome
+G44,Perinephritis
+G44,Primary Hyperoxaluria
+G44,Pyelitis
+G44,Pyelonephritis
+G44,Real Artery Obstruction
+G44,Renal Failure
+G40,Renal Failure
+G44,Renal Hypertension
+G44,Renal Osteodystrophy
+G44,Uremia
+F33,Boys Ranches
+F33,"Group Homes, Housing"
+F33,Mental Health Related
+F30,Mental Health Related
+F33,Transitional Residential Mental Health Care
+F33,"Residential Treatment Facilities, Mental Health Related"
+F53,Anorexia
+F53,Binge Eating
+F53,Boulimia
+F53,Bulimarexia
+F53,Bulimia
+F53,Dysorexia
+F53,Eating Addictions
+F53,Eating Disorders
+F53,Hyperphagia
+F53,Obesity
+G80,Obesity
+F53,Overeating
+F53,Pica
+F53,Rumination Disorder
+G54,Grand Mal
+G54,Haut Mal
+G54,Petit Mal
+E91,Adult Family Care Homes
+E91,Alzheimers Homes
+E91,Chronic Care Homes
+E91,Convalescent Facilities
+E91,Convalescent Hospitals
+E91,Extended Care Facilities
+E91,Geriatric Centers
+E91,Homes for Aging
+P75,Homes for Aging
+E91,Intermediate Care Facilities
+E91,Long Term Care Facilities
+E91,Long Term Custodial Care
+E91,Long-Term Care Facilities
+E91,Long-Term Custodial Care
+E91,Nursing Care
+E91,Nursing Home Facilities
+E91,Nursing Homes
+E91,Rest Homes
+E91,Skilled Nursing Facilities
+G81,Acquired Immunodeficiency Syndrome
+G81,HIV
+G81,HIV/AIDS
+G81,HIV Related Diseases
+G81,Human Immunodeficiency Virus
+F22,AA
+F22,Alanon
+F22,Alateen
+F22,Alcohol Abuse Counseling
+F22,Alcohol Abuse Day Treatment
+F22,Alcohol Abuse Half-Way Houses
+F22,Alcohol Abuse Hotlines
+F22,Alcohol Detoxification
+F22,Alcoholics Anonymous
+F22,Alcoholism Drop-In Services
+F22,Alcoholism Recovery Group Homes
+F22,Alcoholism Recovery Hospitals
+F22,Alcoholism Rehabilitation
+F22,Alcohol-Related Crisis Intervention
+F22,Assessment for Substance Abuse
+F22,Central Intake/Assessment for Alcohol Abuse
+F22,Central Intake/Assessment for Drug Abuse
+F22,Central Intake/Assessment for Substance Abuse
+F22,Chemical Dependency Recovery Hospitals
+F22,Cocaine Anonymous
+F22,Drug Abuse Counseling
+F22,Drug Abuse Day Treatment
+F22,Drug Abuse Drop-In Services
+F22,Drug Abuse Half-Way Houses
+F22,Drug Abuse Hotlines
+F22,Drug Abuse Maintenance Treatment
+F22,Drug Abuse Recovery Group Homes
+F22,Drug Abuse Rehabilitation
+F22,Drug Dependency Recovery Hospitals
+F22,Drug Detoxification
+F22,Drug-Related Crisis Intervention
+F22,Emergency Alcoholism Services
+F22,Emergency Drug Abuse Services
+F22,Heroin Detoxification
+F22,Inpatient Alcoholism Treatment
+F22,Inpatient Drug Abuse Treatment
+F22,Inpatient Substance Abuse Hospitals
+F22,Methadone Detoxification
+F22,Naranon
+F22,Narcotics Anonymous
+F22,Outpatient Alcohol Abuse Treatment
+F22,Outpatient Drug Abuse Treatment
+F22,Outpatient Substance Abuse Treatment
+F22,Relapse Prevention/Transitional Substance Abuse
+F22,Residential Alcoholism Treatment
+F22,Residential Dug Abuse Treatment
+F22,Residential Substance Abuse Treatment
+F22,Sober Living Centers
+F22,Sobering Up Stations
+F22,Substance Abuse Counseling
+F22,Substance Abuse Crisis Intervention
+F22,Substance Abuse Day Treatment
+F22,Substance Abuse Drop-In Services
+F22,Substance Abuse Half-Way Houses
+F22,Substance Abuse Hospitals
+F22,Substance Abuse Hotlines
+F22,Substance Abuse Maintenance Treatment
+F22,Substance Abuse Recovery Group Homes
+F22,Substance Abuse Rehabilitation
+F22,Supportive Recovery Homes
+F22,Transitional Housing for Alcohol Abuse
+F22,Transitional Housing for Drug Abuse
+F22,Transitional Housing for Substance Abuse
+F22,Transitional Residential Alcohol Abuse Services
+F22,Transitional Residential Drug Abuse Services
+F22,Transitional Residential Substance Abuse Services
+F22,Twelve-Step Substance Abuse Mutual Support Groups
+I20,Anti-Crime Patrols
+I20,Arson Prevention
+I20,Block Parents
+I20,Block Watch
+I20,Child Finger Television
+I20,Citizen Crime Reporting
+I20,Citizen Patrols
+I20,Citizens Crime Watch
+I20,Civilian Crime Patrols
+I20,Community Watch
+I20,Crime Reporting
+I20,Crime Prevention
+I20,Crime Watch
+I20,Crime Stoppers
+I20,Crimebusters
+I20,Crimestoppers
+I20,Crimewatch
+I20,Dangerous Weapons Regulation and Control
+I20,Firearms Control
+I20,Fraud Reporting
+I20,Gun Control
+I20,Hate Crime Prevention
+I20,Home Alert
+I20,Kidnapped Children
+I20,Missing Children
+I20,Missing Persons
+I20,Neighborhood Watch
+I20,Online Crime Prevention
+I20,Self-Defense
+I20,Tip Lines
+I20,Violence Prevention
+I70,Violence Prevention
+G40,Alopecia
+G80,Alopecia
+G40,Antitrypsin Deficiency
+G80,Antitrypsin Deficiency
+G40,Bedwetting
+G40,Bladder Diseases
+G40,Cystitis
+G40,Diseases of the Spleen
+G40,Dwarfism
+G80,Dwarfism
+G40,Dystrophic Epidermolysis Bullosa
+G80,Dystrophic Epidermolysis Bullosa
+G40,Endometriosis
+G40,Epididymitis
+G40,Erectile Dysfunction
+G40,Female Genital Diseases
+G40,Genitourinary Diseases
+G40,Hansens Disease
+G40,Hematuria
+G40,Hemoglobinuria
+G40,Hepatitis
+G40,Hydrocele
+G40,Impotence
+G40,Incontinence
+G40,Infertility
+G40,Leprosy
+G40,Liver Diseases
+G40,Male Genital Diseases
+G40,Menopausal Disorders
+G40,Oliguria
+G40,Ovarian Cysts
+G40,Penile Diseases
+G40,Polyuria
+G40,Prostatic Diseases
+G40,Psoriasis
+G40,Sjogrens Syndrome
+G80,Sjogrens Syndrome
+G40,Skin Diseases
+G80,Skin Diseases
+G40,Thyroid Diseases
+G80,Thyroid Diseases
+G40,Ureteral Diseases
+G40,Urethral Diseases
+G40,Urinary Tract Infections
+G40,Urination Disorders
+G40,Urogenital Diseases
+G40,Uterine Diseases
+G40,Vaginal Diseases
+G40,Vesico-Ureteral Reflux
+G40,Vitiligo
+G80,Vitiligo
+G40,Vulvar Diseases
+F40,Crisis Intervention Groups
+F40,Telephone Crisis Hotlines
+F40,Helplines
+F40,Hotlines
+F40,Mental Health Hotlines
+F40,Suicide Prevention
+G48,Basal Ganglia Diseases
+G48,Brain Damage
+G48,Brain Diseases
+G48,Brain Injury
+G48,Brain Tumor
+G48,Cerebellar Diseases
+G48,Cerebrovascular Disorders
+G48,Chorea Gravidarum
+G48,Dejerine-Roussy Syndrome
+G48,Encephalomalacia
+G48,Hallervorden-Spatz Syndrome
+G48,Head Injury
+G48,Headache Disorders
+G48,Intracranial Hypertension
+G48,Intracranial Hypotension
+G48,Migraine
+G48,Seitelbergers Disease
+G48,Thalamic Diseases
+G48,Traumatic Brain Injury
+F54,Compulsive Gambling
+F54,Gamblers Anonymous
+F54,Pathological Gambling
+I43,Correctional Education
+I43,Family Visitation
+I43,Family Visitation Support
+I43,Inmate Counseling
+I43,Inmate Pre-Release Reentry
+I43,Inmate Support
+I43,Inmate Visitation
+I43,Inmate Visiting Transportation
+I43,Jail Visitation
+I43,Offender Advocates
+I43,Pregnant/Parenting Inmate Support
+I43,Prison Libraries
+I43,Prison Ministries
+I43,Prison Visitation
+I43,Prisoner Locator
+I43,Volunteer Inmate Visiting
+I43,Volunteer Jail Visiting
+G61,Bronchial Asthma
+G61,Status Asthmaticus
+G20,Achronplasia
+G20,Alagille Syndrome
+G20,Albinism
+G20,Amaurotic Familial Idiocy
+G20,Bardet-Biedl Syndrome
+G20,Birth Defects
+G20,Cerebral Palsy
+G20,Charcot-Marie Disease
+G20,Charcot-Marie-Tooth Disease
+G20,Chromosome Disorders
+G20,Clubfoot
+G20,Coffin-Lowrey Syndrome
+G20,Congenital Defects
+G20,Cri-du-Chat Syndrome
+G20,Crying Cat Syndrome
+G20,Cryptorchidism
+G20,Cystic Fibrosis
+G20,Cytochrome-c Oxidase Deficiency
+G20,Dandy-Walker Syndrome
+G20,De Lange Syndrome
+G20,Developmental Coordination Disorder
+G20,Factor X Deficiency
+G20,Fetal Alcohol Syndrome
+G20,Fragile X Syndrome
+G20,Friedreich Ataxia
+G20,Genetic Diseases
+G20,Hemophilia
+G20,Hereditary Diseases
+G20,Huntingtons Disease
+G20,Jervell-Lange Nielsen Syndrome
+G20,Kartagener Syndrome
+G20,Klinefelter Syndrome
+G20,Laurence-Moon Syndrome
+G20,Leigh Disease
+G20,Lesch-Nyhan Syndrome
+G20,Littles Disease
+G20,Lynch Syndrome
+G20,March of Dimes
+G20,Marfan Syndrome
+G20,Martin-Bell Syndrome
+G20,Mental Retardation
+G20,Motor Skills Disorder
+G20,Neurofibromatosis
+G20,Oral-Facial Clefts
+G20,Phenylketonuria
+G20,PKU
+G20,Porphyria
+G80,Porphyria
+G20,Prader-Willi Syndrome
+G80,Prader-Willi Syndrome
+G20,Pseudoxanthoma Elasticum
+G20,Pyruvate Carboxylase Deficiency Disease
+G20,Pyruvate Dehydrogenase Complex Deficiency Disease
+G20,Rett Disorder
+G20,Rett Syndrome
+G20,Retts Disorder
+G20,Retts Syndrome
+G20,Rett's Disorder
+G20,Rett's Syndrome
+G20,Rh Disease
+G20,Romano-Ward Syndrome
+G20,Rubinstein-Taybi Syndrome
+G20,Sickle Cell
+G20,Spina Bifida
+G20,Sudden Infant Death
+G20,Tay Sachs
+G20,Testicular Feminization Syndrome
+G20,Thalassemia
+G20,Turner Syndrome
+G20,Turners Syndrome
+G20,WAGR Syndrome
+G20,Werner Syndrome
+G20,Williams Syndrome
+G20,Xeroderma Pigmentosum
+I70,Abuse of the Elderly
+I70,Abuse Prevention
+I70,Crimes Against the Elderly
+I70,Domestic Violence
+I72,Domestic Violence
+I73,Domestic Violence
+I71,Domestic Violence
+I70,Elder Abuse
+I70,Granny Bashing
+I70,Granny Dumping
+I70,King Lear Syndrome
+I70,Violence in the Family
+I70,Violent Families
+G84,Aspergers Disorder
+G84,Autistic Disorder
+G84,Childhood Disintegration Disorder
+G84,Pervasive Developmental Disorder
+G41,Achromatic Vision
+G41,Amaurosis
+G41,Amblyopia
+G41,Ametropia
+G41,Aniseikonia
+G41,Anisometropia
+G41,Asthenopia
+G41,Astigmatism
+G41,Blindness
+G41,Choroid Diseases
+G41,Color Blindness
+G41,Conjunctival Diseases
+G41,Corneal Diseases
+G41,Diochromatic Vision
+G41,Diplopia
+G41,Double Vision
+G41,Duane Retraction Syndrome
+G41,Eyelid Diseases
+G41,Glaucoma
+G41,Hemeralopia
+G41,Hemianopsia
+G41,Hyperopia
+G41,Lacrimal Apparatus Diseases
+G41,Lens Diseases
+G41,Low Vision
+G41,Macular Degeneration
+G41,Miller Fisher Syndrome
+G50,Miller Fisher Syndrome
+G41,Myopia
+G41,Night Blindness
+G41,Nyctalopia
+G41,Ocular Hypertension
+G41,Ocular Hypotension
+G41,Ocular Motility Disorders
+G41,Optic Nerve Diseases
+G41,Orbital Diseases
+G41,Presbyopia
+G41,Proliferative Vitreoretinopathy
+G41,Pupil Disorders
+G41,Refractive Errors
+G41,Retenal Diseases
+G41,Retinal Dysplasia
+G41,Retinitis Pigmentosa
+G41,Retinitis
+G41,Scleral Diseases
+G41,Scleritis
+G41,Scotoma
+G41,Scotoma
+G41,Strabismus
+G41,Tolosa-Hunt Syndrome
+G41,Tunnel Vision
+G41,Uveal Diseases
+G41,Uvenitis
+G41,Vision Disorders
+G41,Vitreous Detachment
+G98,Neonatology
+G98,Perinatology
+G50,ALS
+G50,Amyotrophic Lateral Sclerosis
+G50,Arnold Chiari Syndrome
+G50,Arthrogryposis
+G50,Atrophic Muscular Disorders
+G50,Autonomic Nervous System Diseases
+G50,Batten Disease
+G50,Bell Palsy
+G50,Bell's Palsy
+G50,Bone Diseases
+G50,Bursitis
+G50,Cartilage Diseases
+G50,Central Nervous System Diseases
+G50,Chronic Fatigue Syndrome
+G50,Chronobiology Disorders
+G50,Circadian Rhythm Sleep Disorders
+G50,Connective Tissue Diseases
+G50,De Quervain Disease
+G50,Dysautonomia
+G50,Fibromyalgia
+G50,Guillain-Barre Syndrome
+G50,Hemiplegia
+G50,Jet Lag Syndrome
+G50,Joint Diseases
+G50,Lou Gehrig Disease
+G50,Mitochondrial Myopathies
+G50,MS
+G50,Multiple Sclerosis
+G50,Muscular Diseases
+G50,Muscular Dystrophy
+G50,Muscle Diseases
+G50,Musculoskeletal & Connective Tissue Diseases
+G50,Musculoskeletal Diseases
+G50,Myasthenia Gravis
+G50,Myoclonus
+G50,Myositis
+G50,Nervous System Diseases
+G50,Nervous System Trauma
+G50,Neurological Diseases
+G50,Osteoporosis
+G50,Parkinsons Disease
+G50,Rheumatic Diseases
+G50,Scheuermann Disease
+G50,Scoliosis
+G50,Spinal Cord Injury
+G50,Spinal Diseases
+G50,Spinal Disorders
+G50,Spondylitis
+G50,Spondylolisthesis
+G50,Tendinitis
+G50,Tennis Elbow
+G50,Tenosynovitis
+G50,Tietzes Syndrome
+G50,Tuberous Sclerosis
+I83,Class Action Lawsuits
+I83,Public Interest Law
+I83,Public Interest Litigation
+I30,Detention of Alleged Law Violators
+I30,Detention of Law Violators
+I30,Jails
+I30,Penitentiaries
+I30,Prisons
+G70,Abdominal Pain
+G70,Biliary Tract Diseases
+G70,Colitis
+G70,Crohns Disease
+G70,Curlings Ulcer
+G70,Diarrhea
+G70,Digestive System Diseases
+G70,Diverticulosis
+G70,Duodenal Ulcer
+G70,Esophageal Diseases
+G70,Gallbladder Diseases
+G70,Gastroenteritis
+G70,Gastrointestinal Diseases
+G70,Hernia
+G70,Ileitis
+G70,Intestinal Diseases
+G70,Jaundice
+G70,Mesenteric Vascular Occlusion
+G70,Pancreatic Diseases
+G70,Pancreatic Diseases
+G70,Peptic Ulcer
+G70,Peritoneal Diseases
+G70,Protein-Losing Enteropathies
+G70,Stomach Diseases
+G70,Stomach Ulcer
+G70,Visceroptosis
+B99,Faculty Groups
+I50,Administration of Justice
+I50,Alternatives to Litigation
+I50,Bail Deviation
+I50,Court Administration
+I50,Court Orientation for Offenders
+I50,Court Reform
+I50,Courts
+I50,Criminal Justice Systems
+I50,Expert Witnesses
+I50,Penal Reform
+I50,Prison Reform
+G90,Anesthesiology
+G90,Cardiology
+G90,Cardiovascular Medicine
+G90,Chiropractic
+E30,Chiropractic
+G90,Dermatology
+G90,Emergency Medicine
+G90,Endocrinology
+G90,Family Practice
+G90,Forensic Medicine
+G90,Gastroenterology
+G90,Gynecologists
+G90,Hematology
+G90,Immunology
+G90,Infectious Disease
+G90,Internal Medicine
+G90,Mortuary Science
+G90,Nephrology
+G90,Nuclear Medicine
+G90,OB/GYN
+E41,OB/GYN
+G90,Obstetric/Gynecology
+G90,Occupational Medicine
+G90,Oncology
+G90,Ophthalmology
+G90,Optometry
+G90,Osteopathic Medicine
+G90,Otolaryngology
+G90,Pathology
+G90,Phlebology
+G90,Physical Medicine
+G90,Podiatry
+E30,Podiatry
+G90,Preventive Medicine
+G90,Psychiatry
+G90,Pulmonary Disease Specialists
+G90,Radiology
+G90,Rehabilitative Medicine
+G90,Reproductive Medicine
+G90,Rheumatology
+G90,Urology
+G90,Venereology
+J30,Employment for Disabled Persons
+J30,Employment for the Homebound
+J30,Homebound Employment
+J30,Housebound Employment
+J30,Job Coach
+J30,On-the-Job Coaching
+J30,Supported Employment
+J30,Work Adjustment Training
+I72,Abuse of Children
+I72,Abused Children
+I72,Abusive Parents
+I72,Battered Children
+I72,CAC
+I72,Child Abuse Hotlines
+I72,Child Abuse Prevention
+I72,Child Neglect
+I72,Child Protection
+I72,Cruelty to Children
+I72,Incest
+I72,Infanticide
+I72,Parents Anonymous
+I72,Prevention of Child Mistreatment
+I72,Shaken Baby Syndrome
+G9B,"Colon & Rectal Surgery, Colorectal Surgery"
+G9B,Cosmetic Surgery
+G9B,Neurological Surgery
+G9B,Neurosurgery
+G9B,Orthopedics
+G9B,Orthopedic Surgery
+G9B,Plastic Surgery
+G9B,Reconstructive Surgery
+G9B,Thoracic Surgery
+G9B,Traumatology
+J20,Bonding for Employment
+J20,Business Attire
+J20,Dislocated Workers Training
+J20,Displaced Homemakers
+J20,Dress for Success
+J20,Employment Acquisition
+J20,Employment Agencies
+J20,Employment Placement Agencies
+J20,Employment Preparation
+J20,Employment Procurement
+J20,Employment Referrals
+J20,Employment Resource Center
+J20,Employment Retraining
+J20,Employment Screening/Finding
+J20,Equal Employment Opportunity
+I80,Equal Employment Opportunity
+J20,Foreign Employment
+J20,Job Banks
+J20,Job Clubs
+J20,Job Counseling and Placement
+J20,Job Fairs
+J20,Job Information Clearinghouses
+J20,Job Information Lines
+J20,Job Interview Training
+J20,Job Listings
+J20,Job Placement Assistance
+J20,Job Readiness
+J20,Job Referrals
+J20,Job Search Assistance
+J20,Job Search Resource Center
+J20,Occupational Retraining
+J20,Occupational Training for Dislocated Workers
+J20,OICs
+J20,Opportunities Industrialization Centers
+J20,Post Employment Assistance
+J20,Pre-Job Guidance
+J20,Reentry Training
+J20,Resume Preparation Assistance
+J20,Retraining
+J20,SCSEP
+J20,Senior Citizen Employment
+J20,Senior Community Service Employment
+J22,Senior Community Service Employment
+J20,SER-Jobs for Progress
+J20,Title V
+J20,Work Reentry Training
+K34,Adult Care Feeding
+K34,Child Care Feeding
+K34,Child Nutrition
+K34,Group Meals
+K34,Low-Cost Meals
+K34,Meal Vouchers
+K34,Milk Programs
+K34,Nutrition Sites
+K34,School Breakfasts
+K34,School Lunches
+K34,Summer Food Service
+K34,Senior Nutrition Sites
+I31,Half-Way Houses for Ex-Offenders
+I31,Half-Way Houses for Offenders
+I31,Prerelease Centers
+I31,Transitional Care for Ex-Offenders
+I31,Transitional Care for Offenders
+I31,Work Release Centers
+E21,Community-Based Health Services
+E21,Health Care Systems
+E21,Hospital Management Corporations
+E21,Multihospital Health Care Systems
+E21,Multihospital Systems
+J33,Remunerative Sheltered Employment
+J33,Sheltered Employment
+J33,Sheltered Remunerative Employment
+J33,Sheltered Work Activity Centers
+J33,Sheltered Workshops
+L20,Accessible Housing
+L20,Affordable Housing
+L20,Barrier-Free Housing
+L20,Habitat for Humanity
+L20,Housing Construction
+L20,Housing Cooperatives
+L20,Housing Development
+L20,Housing Management
+L20,Inexpensive Housing
+L20,Low Cost Housing
+L20,Low Income Housing
+L20,Low to Moderate Cost Housing
+L20,Low to Moderate Income Housing
+L20,Mobile Home Parks
+L20,Moderate Income Housing
+L20,Rooming Houses
+L20,Shared Housing
+L20,Single Room Occupancy
+L20,SRO Hotels
+L20,SRO Housing
+L20,SROs
+L20,Sweat Equity
+L20,Urban Homesteading
+B43,Doctorates
+B43,Graduate Schools
+B43,Masters Degrees
+B43,Technological Institutes
+B43,Universities
+E32,Ambulatory Health Centers
+E32,Clinics
+E32,Community Clinics
+E32,Community Health Centers
+E32,Community Health Clinics
+E32,Free Clinics
+E32,Health Centers
+E32,Health Clinics
+E32,Mobile Health Care
+E32,Walk-in Clinics
+K36,Home Delivered Meals
+K36,Home Meals
+K36,Meals on Wheels
+K36,Mobile Meals
+L30,Home Purchase Listings
+L30,Home Rental Listings
+L30,Housing Search and Information
+L30,Relocation Assistance
+L30,Roommate Matching Assistance
+E61,Blood Banks
+E61,Blood Donations
+E61,Blood Donor Stations
+E61,Blood Drives
+E61,Blood Supply
+E61,Plasma Supply
+E61,Whole Blood Substitute
+I51,Alternative Dispute Resolution
+I51,Alternative to Litigation
+I51,Arbitration
+I51,Conflict Resolution
+I51,Dispute Resolution
+I51,Dissolution Assistance
+I51,Labor Mediation
+I51,Landlord/Tenant Mediation
+I51,Mediation
+I51,Mini-Trials
+L22,Age Restricted Communities
+L22,Agency on Aging Apartments
+L22,Elderly Housing
+L22,HUD 202
+L22,Retirement Communities
+L22,Retirement Homes
+L22,Section 202 Supportive Housing for the Elderly
+L22,Senior Apartment Complexes
+L22,Senior Citizens Housing
+L22,Senior Citizens Retirement Communities
+L22,Senior Congregate Living Facilities
+L22,Senior Retirement Communities
+L82,Construction Loans
+L82,Electric Bill Payments Assistance
+L82,Gas Bill Payments Assistance
+L82,Home Purchase Loans
+L82,House Payment Assistance
+L82,Housing Costs
+L82,Housing Down Payment Assistance
+L82,Housing Expense Assistance
+L82,Housing Payments Assistance
+L82,Mortgage Payments Assistance
+L82,Moving Expense Assistance
+P60,Moving Expense Assistance
+L82,Property Tax Relief
+L82,Rent Assistance
+L82,Rental Deposit Assistance
+L82,Security Deposit Assistance
+L82,Telephone Bill Payments Assistance
+L82,Utility Bill Payments Assistance
+L82,Water Bill Payments Assistance
+I73,Child Molestation Prevention
+I73,Dating Violence Prevention
+I73,Rape Prevention
+I73,Sexual Assault Prevention
+I73,Sex Offender Registration
+L41,Bad Weather Shelters
+L41,Bridge Housing
+L41,Community Shelters
+L41,Mission Housing
+L41,Motel Vouchers
+L41,Urban Campsites
+L41,Overnight Shelters
+E86,Caregiver Support
+E86,Caregiver Training
+E86,Cancer Lodges
+E86,Health Care Counseling
+E86,Health Resocialization
+E86,Hostels
+L40,Hostels
+E86,Hospital Lodges
+E86,Hospitality Houses
+E86,Make-a-Wish
+E86,Medical Apartments
+E86,Medical Treatment Lodges
+E86,Patient Entertainment
+E86,Patient Housing
+E86,Patient/ Family Housing
+E86,Patient/Family Enrichment
+E86,Patient Recreation
+E86,Patient Services Counseling
+E86,Ronald McDonald Houses
+E86,Wish Foundations
+B92,Children Literacy
+B92,Reading Encouragement
+B92,Reading is Fundamental
+B92,Remedial Reading
+B92,Remedial Spelling
+B92,RIF
+N30,Aquatic Centers
+N30,Arenas
+N30,Athletic Facilities
+N30,Equestrian Centers
+N30,Gymnasiums
+N30,Natatoriums
+N30,Physical Fitness Facilities
+N30,Recreation Centers
+N30,Recreational Centers
+N30,Recreation Councils
+N30,Skating Rinks
+N30,Stadiums
+N30,Swimming Pools
+M23,Air Rescue
+M23,Lifeguards
+M23,Beach Rescue
+M23,Dive Rescue
+M23,K-9 Search and Rescue
+M23,Mountain Rescue
+M23,Sea Rescue
+M23,Search and Rescue
+M23,Search Dogs
+M23,Ski Patrol
+M23,Ski Rescue
+M23,Swift Water Rescue
+M23,Traffic Accident Rescue
+M23,Underwater Search/Rescue/Recovery
+M23,Urban Search and Rescue
+M23,Wilderness Rescue
+M23,Civil Air Patrol 
+F20,Alcohol Abuse
+F20,Drug Abuse
+F20,Substance Abuse
+J21,Assessment Testing
+J21,Career Awareness
+J21,Career Counseling
+J21,Career Development
+J21,Career Goals
+J21,Career Guidance
+J21,Career Planning
+J21,Employment Aptitude Testing
+J21,Employment Counseling
+J21,Employment Interest Measures
+J21,Interest Inventories
+J21,Job Counseling
+J21,Vocational Assessment
+J21,Vocational Counseling
+J21,Vocational Guidance
+J21,Vocational Information
+J21,Vocational Testing
+N32,Athletic Fields and Courts
+N32,Beaches
+N32,Bike Trails
+N32,Bridle Trails
+N32,Campgrounds
+N32,Hiking Trails
+N32,Jogging Trails
+N32,National Parks
+N32,Off-Road Vehicle Trails
+N32,Parks
+N32,Picnic Grounds
+N32,Playgrounds
+N32,Public Parks
+N32,Recreational Trails
+N32,Skate Parks
+N32,Ski Areas
+N32,Snowmobile Trails
+N32,State Parks
+F32,Community Mental Health Clinics
+F32,Neighborhood Mental Health Centers
+D20,Adopt-A-Burro
+D20,Adopt-A-Greyhound
+D20,Adopt-A-Horse
+D20,Adopt-A-Race Horse
+D20,Alligator Control
+D20,Animal Adoption
+D20,Animal Control
+D20,Animal Lost & Found
+D20,Animal Population Control
+D20,Animal Protection 
+D20,Animal Rescue
+D20,Animal Shelters
+D20,Animal Welfare
+D20,ASPCA
+D20,Coyote Control
+D20,Cruelty to Animals
+D20,Deer Control
+D20,Domestic Animal Protection
+D20,Domestic Animal Welfare
+D20,Equine Rescue
+D20,Farm Animal Protection
+D20,Farm Animal Welfare
+D20,Farm Animals Sanctuaries
+D20,Foster Care for Animals
+D20,Found Pets
+D20,Greyhound Adoption
+D20,Greyhound Rescue
+D20,Homeless Animals
+D20,Horse Sanctuaries
+D20,Humane Societies
+D20,Lost Animals
+D20,Lost Pets
+D20,Missing Pets
+D20,Pet Adoption
+D20,Pet Cemeteries
+D20,Pet Reunification
+D20,Predator Control
+D20,Prevention of Cruelty to Animals
+D20,Rabbit Rescue
+D20,Snake Control
+D20,Spaying & Neutering
+D20,SPCA
+D20,Stray Animal Assistance
+D20,Unwanted Animals
+D20,Unwanted Pets
+O31,Big Brothers
+O31,Big Sisters
+O42,Daisy Girl Scouts
+O42,Brownie Girl Scouts
+O42,Junior Girl Scouts
+O42,Cadette Girl Scouts
+O42,Girl Scouts
+O42,Senior Girl Scouts
+K30,Baby Food Suppliers
+K30,Commodity Distribution
+K30,Community Food Gardening
+K30,Cooperative Food Purchasing
+K30,Emergency Food
+K30,Farmers Markets
+K30,Food Aid
+K30,Food Assistance
+K30,Food Baskets
+K30,Food Cooperatives
+K30,Food Co-ops
+K30,Food Distribution
+K30,Food Gleaning
+K30,Food Lines
+K30,Food Vouchers
+K30,Groceries on Wheels
+K30,Grocery Vouchers
+F52,Anti-Smoking Campaigns
+F52,Nicotine Addiction
+F52,Nicotine Dependency
+F52,Smoking Cessation
+F52,Smoking Education
+F52,Smoking Prevention
+F52,Smoking Withdrawal Clinics
+F52,Stop Smoking
+F52,Tobacco Addiction
+F52,Tobacco Habit
+O50,Character Development for Youth
+O50,Future Homemakers
+O50,Future Leaders of America
+O50,Hugh OBrian Youth Foundation
+E30,Acupuncture
+E30,Alternative Health Clinics
+E30,Ambulatory Surgical Centers
+E30,Ambulatory Surgery
+E30,Biofeedback
+E30,Burn Centers
+E30,Burn Institutes
+E30,Day Surgery
+E30,Dental Clinics
+E39,Dental Clinics
+E30,Dental Care
+E39,Dental Care
+E30,Diagnostic Facilities
+E30,Diagnostic Imaging
+E30,Dialysis Centers
+E30,Eye Screening Clinics
+E30,Foot Clinics
+E30,Herbal Medicine
+E30,Homeopathic Medicine
+E30,Hospital-Based Outpatient Care
+E30,Infant Care Clinics
+E30,Infant Centers
+E30,Medical Testing Laboratories
+E30,Mobile Dental Care
+E39,Mobile Dental Care
+E30,Naturopathic Medicine
+E30,Neonatal Care Clinics
+E30,Neonatal Centers
+E30,Optometry Clinics
+E30,Outpatient Care
+E30,Outpatient Surgery
+E30,Pain Management
+E30,Rural Health Care
+E30,Rural Medical Service
+E30,Traditional Healing Arts
+E30,Well Baby Care
+E30,Well Baby Clinics
+E30,Well-Baby Care
+E30,Well-Baby Clinics
+O55,Campus Crusade for Christ
+O55,Catholic Youth Organizations
+O55,Christian Youth Clubs
+O55,Faith-Based Youth
+O55,Liberal Religious Youth
+O55,Youth for Christ
+O53,Junior Achievement
+O53,Student Operated Business
+K40,Basic Food Groups
+K40,Healthful Eating
+K40,Nutrition Assistance
+K40,Nutrition Education
+K40,"Special Supplemental Nutrition for Women, Infants and Children"
+K40,USDA Food Pyramid
+K40,Vegetarianism.
+K40,WIC
+F80,Multipurpose Mental Health Associations
+E50,Art Therapy
+E50,Audiological evaluations
+E50,Auditory Training
+E50,Corrective Therapy
+E50,Cued Speech Instruction
+E50,Easter Seal Societies
+E50,Equestrian Therapy
+E50,Equine-facilitated Therapy
+E50,Equine Therapy
+E50,Dance Therapy
+E50,Easter Seal Society
+E50,Finger Spelling Instruction
+E50,Hippo Therapy
+E50,Horse Therapy
+E50,Hydrotherapy
+E50,Kinesiology
+E50,Language Therapy
+E50,Music Therapy
+E50,Occupational Therapy
+E50,Oral Communication Instruction
+E50,Pediatric Occupational Therapy
+E50,Physical Therapy
+E50,Sign Language Instruction
+E50,Speech and Hearing Centers
+E50,Speech and Language Evaluations
+E50,Speech Therapy
+E50,Therapeutic Horseback Riding
+E50,Therapeutic Horsemanship
+E50,Therapeutic Riding
+E50,Total Communication Instruction
+E50,Water Therapy
+G32,Breast cancer
+P28,Community Centers
+P28,Jewish Community Centers
+P28,Neighborhood Centers
+P28,Neighborhood Multipurpose Centers
+P28,Settlement Houses
+G45,Asbestosis
+G45,Berylliosis
+G45,Black Lung Disease
+G45,Bronchial Diseases
+G45,Bronchiolitis Obliterans
+G45,Bronchitis
+G45,Bronchopulmonary Dysplasia
+G45,Byssinosis
+G45,Caplans Syndrome
+G45,Dyspnea
+G45,Emphysema
+G45,Eosinophilic Granuloma
+G45,Goodpasture Syndrome
+G45,Hand-Schueller-Christian Syndrome
+G45,Hemoptysis
+G45,Hyaline Membrane Disease
+G45,Interstitial Lung Diseases
+G45,Langerhans-Cell Histiocytosis
+G45,Letterer-Siwe Disease
+G45,Lung Abscess
+G45,Meconium Aspiration
+G45,Middle Lobe Syndrome
+G45,Non-Langerhans-Cell Histiocytosis
+G45,Obstructive Lung Diseases
+G45,Parasitic Lung Diseases
+G45,Pleural Diseases
+G45,Pleurisy
+G45,Pleuropneumonia
+G45,Pneumoconiosis
+G45,Pneumonia
+G45,Pulmonary Alveolar Proteinosis
+G45,Pulmonary Coin Lesion
+G45,Pulmonary Diseases
+G45,Pulmonary Edema
+G45,Pulmonary Embolism
+G45,Pulmonary Eosinophilia
+G45,Pulmonary Fibrosis
+G45,Pulmonary Plasma Cell Granuloma
+G45,Pulmonary Sarcoidosis
+G45,Radiation Pneumonitis
+G45,Respiration Disorders
+G45,Respiratory Distress Syndrome
+G45,Respiratory Insufficiency
+G45,Respiratory System Diseases
+G45,Respiratory Tract Diseases
+G45,Siderosis
+G45,Silicosis
+G45,Silo Fillers Disease
+G45,Tuberculosis
+G45,Wegeners Granulomatosis
+L24,HUD 811
+L24,Section 811 Supportive Housing for Persons with Disabilities.
+P30,Adolescent Pregnancy Prevention
+P30,Adolescent Services
+P30,Child Development Support
+P30,Child Welfare
+P30,Childrens Aid Societies
+P30,Childrens Home Societies
+P30,Childrens Protective Services
+P30,Childrens Services
+P30,Childrens Social Services
+P30,Multipurpose Childrens Services
+P30,Runaway Hotlines
+P30,Runaway Services
+P30,Teen Pregnancy Prevention
+P30,Youth Services
+P33,After School Care
+P33,Babysitting
+P33,Before School Care
+P33,Child Care Centers
+P33,Child Care Co-ops
+P33,Child Caregivers
+P33,Childrens Day Care
+P33,Corporate Day Care
+P33,"Day Care, Children"
+P33,Drop-In Child Care
+P33,Extended Day Care
+P33,Faith-Based Child Care 
+P33,Family Child Care Homes
+P33,Infant Care Centers
+P33,In-Home Child Care
+P33,Latchkey Child Care 
+P33,Nanny
+P33,Nighttime Child Care
+P33,Sick Child Care
+P42,Parents Without Partners
+P42,Single Parent Agencies
+P42,Single Parents
+G60,Allergies
+G60,Anaphylaxis
+G60,Angioneurotic Edema
+G43,Angioneurotic Edema
+G60,Drug Hypersensitivity
+G60,Environmental Illness
+G60,Food Allergies
+G60,Food Hypersensitivity
+G60,Hay Fever
+G60,Hives
+G60,Hypersensitivity
+G60,Latex Hypersensitivity
+G60,Multiple Chemical Sensitivities
+G60,Rhinitis
+G60,Sick Building Syndrome
+G60,Urticaria
+G60,Wissler Syndrome
+E70,Biohazards Research
+E70,Biostatistics
+E70,Centers for Disease Control
+E70,Childhood Immunizations
+E70,Communicable Diseases Control and Prevention
+E70,Community Health Promotion
+E70,Community Wellness
+E70,Disease Outbreaks
+E70,Diseases Control and Prevention
+E70,Employee Health
+E70,Environmental Health Hazards
+E70,Environmental Health
+E70,Environmental Medicine
+E70,Environmental Toxicology
+E70,Epidemiology
+E70,Ergonomics
+E70,Flu Shots
+E70,Foreign Travel Shots
+E70,Health Biostatistics
+E70,Health Fairs
+E70,Health Maintenance
+E70,Health Promotion
+E70,Health Screening
+E70,Immunizations
+E70,Industrial Hygiene
+E70,Industrial Medicine
+E70,Industrial Safety
+E70,Inoculations
+E70,International Health
+E70,International Public Health
+E70,Mass Health Screening
+E70,Medical Biostatistics
+E70,National Health
+E70,National Institutes of Health
+E70,Occupation Health Promotion
+E70,Occupational Health and Safety
+E70,Occupational Safety
+E70,Preventive Health
+E70,Public Health Medicine
+E70,"Sexually Transmitted  Disease Control, Prevention"
+E70,Surgeon General
+E70,Vaccinations
+E70,"Venereal Disease Control, Prevention"
+E70,Virology
+E70,Wellness
+E70,Worker Health
+E70,Workplace Health Promotion
+E70,Workplace Safety
+E70,Workplace Wellness
+E70,Worksite Wellness
+E70,World Health
+P45,Adolescent Parents
+P45,Adolescent Parents Pregnancy Counseling
+P45,Maternity Home Care
+P45,Maternity Homes for Unwed Mothers
+P45,Post Pregnancy Shelter Care
+P45,Teen Parents
+P45,Unwed Pregnant Womens Shelter
+P47,Birthright
+P47,Crisis Pregnancies
+P47,"Crisis Pregnancy Centers, Pregnancy Centers, Pregnancy Care Centers"
+P47,"Pregnancy Care Clinics.
+"
+L80,Home Purchase Counseling
+L80,Homeowner Purchase Counseling
+L80,Homeownership Counseling
+L80,Homeownership Education
+L80,Homeownership Training
+L80,Household Goods Storage Assistance
+L80,Housing Counsel
+L80,HUD Counseling Services
+L80,Mortgage Counseling
+L80,Moving Assistance
+P60,Child Care Vouchers
+P60,Clothing Distribution
+P60,Emergency Cash
+P60,Emergency Food Assistance
+P60,Emergency Living Expenses
+P60,Emergency Money
+P60,Household Goods Provision
+P60,Household Goods Vouchers
+P60,Personal Loans
+P60,Return to Point of Origin Assistance
+P60,Short-Term Emergency Assistance
+P60,Short Term Emergency Assistance
+P60,Temporary Financial Aid
+P52,Bus Passes
+P52,Demand/Response Transportation
+P52,Disability-Related Transportation
+P52,Door-to-Door Transportation
+P52,Handicapped Transportation
+P52,Paratransit
+P52,Senior Rides
+P52,Special Needs Transportation
+P52,Student Transportation
+P52,Transportation Passes
+P52,Transportation Vouchers
+E92,Geriatric Home Nursing
+E92,Home Infusion Therapy
+E92,Home Infusion Therapy
+E92,Home Care Services
+E92,Home Nursing Care
+E92,Medical/Surgical Home Nursing
+E92,Oncology Home Nursing
+E92,Pediatric Home Nursing
+E92,Private Duty Nursing
+E92,Psychiatric Home Nursing
+E92,Registered Home Nursing
+E92,Rehabilitation Home Nursing
+E92,Restorative Home Nursing
+E92,Visiting Doctors
+E92,Visiting Nurses
+E92,Visiting Physicians
+G96,Neurology
+G96,Neurosciences
+P73,Group Homes for Adults with Developmental Disabilities
+P73,Group Homes for Adults with Disabilities
+P73,Group Homes for Disabled Adults
+P73,Housing
+P70,Housing
+I44,Housing
+P73,Long-Term Group Homes
+P73,Long Term Group Homes
+P73,Residential Care for Individuals with Disabilities
+P73,Residential Care
+M24,Fire Code Inspections
+M24,Fire Companies
+M24,Fire Departments
+M24,Fire Fighting
+M24,Fire Safety Inspections
+M24,Fire Suppression Systems
+M24,Fire Prevention
+M24,Firefighters
+M24,Wildfire Residential Fire Protection Systems
+P70,"Custodial, Residential Care Facilities"
+P70,Respite Care
+P40,Respite Care
+P82,Activities of Daily Living
+P82,Daily Living Instruction
+P82,Day Programs for the Developmentally Disabled
+P82,Developmentally Disabled Activity Centers
+P71,Developmentally Disabled Activity Centers
+P82,Developmentally Disabled Behavior Management 
+P82,Developmentally Disabled Centers
+P82,Developmentally Disabled Services
+P82,Developmentally Disabled Social/Recreation 
+P82,Drop in Centers for the Developmentally Disabled
+P82,Independent Living Skills Instruction: Mentally Retarded Centers
+P82,Mentally Retarded Services
+P82,Retarded Citizens Associations
+P82,Retarded Citizens Centers
+P82,Retarded Citizens Services
+P82,Self Care
+F30,Animal-Assisted Therapy
+F30,Clinical Evaluation
+F30,Early Intervention
+F30,Forensic Psychiatric Evaluations
+F30,Hug-A-Pet Programs
+F30,Mental  Health Twelve Step
+F30,Mental Health Drop-in Centers
+F30,Mental Health Evaluation
+F30,Outpatient Mental Health Facilities
+F30,Pet-Assisted Therapy
+F30,Pet Therapy
+F30,Psychiatric Day Treatment Facilities
+F30,Psychological Testing
+F30,Psychosocial Evaluation
+I21,Gang Related
+I21,Juvenile Delinquency Prevention
+I21,SADD
+I21,Students Against Destructive Decisions
+I21,Students Against Drunk Driving
+I21,Youth Crime Prevention
+O20,Police Athletic Leagues
+O20,Teen Centers
+O20,Teen Clubs
+O20,Youth Centers
+O20,Youth Clubs
+P80,Animal Aides
+P80,Assistive Technologies
+P80,Canine Assistants
+P80,Care Management
+P80,Case Management
+P80,Companion Animals
+P80,Guide Dog Training
+P80,Guide Dogs
+P80,Service Animals
+P80,Service Dogs
+P80,Womens Centers
+P80,Womens Services
+R25,Age Discrimination
+F42,Rape Crisis Counseling
+F42,Rape Victim Hotlines
+F42,Sexual Assault Services
+I44,Adult Diversion
+I44,Alternatives to Incarceration
+I44,Community Corrections
+I44,Community-Based Correctional Facility
+I44,Day Treatment for Offenders
+I44,Diversion
+I44,Group Homes for Offenders
+I44,Home Confinement
+I44,Intensive Supervision of Offenders
+I44,Juvenile Alternative Sentencing
+I44,Juvenile Detention Facilities
+I44,Juvenile Detention Homes
+I44,Juvenile Diversion
+I44,Juvenile Justice System
+I44,Prison Alternatives
+I44,Prison Boot Camps
+I44,Reformatories
+I44,Residential Restitution Centers
+I44,Residential Treatment Facilities for Offenders
+I44,Weekend Sentences
+R60,Academic Freedom
+R60,Bill of Rights
+R60,Civil Liberties
+R60,Constitutional Rights
+R60,Criminal Rights
+R60,Cyber-Liberties
+R63,Cyber-Liberties
+R60,Death Penalty Advocacy
+R60,Death Penalty Issues
+R60,Due Process
+R60,Freedom of Association
+R60,Freedom of Information
+R60,Freedom of Religion
+R60,Gun Control Advocacy
+R60,Legal Rights
+R20,Legal Rights
+R60,Library Censorship
+R63,Library Censorship
+R60,Political Rights
+R60,Right of Assembly
+R60,Right to Bear Arms
+R60,Right to Privacy
+P86,Audio Books 
+P86,Books on Tape 
+P86,Braille Transcription
+P86,Guide Dogs for the Blind
+P86,Recorded Books 
+P86,Recording for the Blind
+P86,Seeing Eye Dog 
+P86,Talking Books
+F60,Adolescent Counseling
+F60,Adult Incest Survivor Counseling
+F60,Anger Management
+F60,Bereavement Counseling
+F60,Child Abuse Counseling
+F60,CISD
+F60,Critical Incident Stress Debriefing
+F60,Cult Membership Counseling
+F60,Cultural Transition Counseling
+F60,Disability Counseling
+F60,Elder Abuse Counseling
+F60,Employee Assistance
+F60,Employment Transition Counseling
+F60,Family Violence Counseling
+F60,Geriatric Counseling
+F60,Gestalt Therapy
+F60,Grief Counseling
+F60,Health Problems Counseling
+F60,Parent Abuse Counseling
+F60,Peer Counseling
+F60,Psychiatric Disorder Counseling
+F60,Sexual Offender Counseling
+F60,Sexual Orientation Counseling
+F60,Sexuality Counseling
+F60,Spousal Abuse Counseling
+F60,Spouse Abuse Counseling
+F60,Terminal Illness Counseling
+F60,Veteran Counseling
+F60,Youth Counseling
+I71,Battered Husbands
+I71,Battered Wives
+I71,Conjugal Crime Prevention
+I71,Domestic Abuse Prevention
+I71,Domestic Rape Prevention
+I71,Husband Abuse Prevention
+I71,Marital Rape Prevention
+I71,Spousal Abuse Prevention
+I71,Wife Abuse Prevention
+R22,African American Rights
+R22,Asian American Rights
+R22,Congress of Racial Equality
+R22,CORE
+R22,Ethnic Groups Rights
+R22,Hispanic Rights
+R22,La Raza
+R22,Latino Rights
+R22,NAACP
+R22,Native American Rights
+R22,Racial Equality
+R22,SCLC
+R22,Southern Christian Leadership Conference
+O51,Key Clubs
+O51,Youth Service America
+X22,Catholic Church
+X22,Roman Catholic Church
+R30,Diversity Training
+R30,Intergroup Relations
+R30,Multicultural Understanding
+R30,Race Relations
+G25,Trisomy
+G25,Down Anomaly
+G25,Downs Anomaly
+G25,Downs Syndrome
+G25,Mongolism
+G25,Trisomy 21
+X90,Ecumenical
+X90,Interdenominational
+X90,Jewish-Christian Relations
+X90,National Conference of Christians and Jews
+R63,Anti-Censorship Advocacy
+R63,Censorship
+R63,Freedom of Speech
+R63,Free Speech
+R63,Freedom of the Press
+G43,Aneurysm
+G43,Angina Pectoris
+G43,Angiodysplasia
+G43,Aortic Diseases
+G43,Arrhythmia
+G43,Arterial Occulsive Diseases
+G43,Arteriosclerosis
+G43,Arteritis
+G43,Bradycardia
+G43,Capillary Leak Syndrome
+G43,Carcinoid Heart Disease
+G43,Cardiac Arrest
+G43,Cardiac Tamponade
+G43,Cardiomegaly
+G43,Cardiovascular Diseases
+G43,Carotid Stenosis
+G43,Congestive Heart Failure
+G43,Coronary Thrombosis
+G43,CREST Syndrome
+G43,Dysrhythmia
+G43,Embolism
+G43,Endocarditis
+G43,Erythromelalgia
+G43,Fibromuscular Dysplasia
+G43,Heart Aneurysm
+G43,Heart Diseases
+G43,Heart Valve Disease
+G43,High Blood Pressure
+G43,Hperemia
+G43,Hypertension
+G43,Hypertrophy
+G43,Hypotension
+G43,Ischemic Heart Disease
+G43,Leriches Syndrome
+G43,Low Blood Pressure
+G43,Mesenteric Vascular Occulsion
+G43,Mitral Valve Prolapse
+G43,Myocardial Diseases
+G43,Myocardial Infarction
+G43,Myocardial Ischemia
+G43,Paroxysmal Tachycardia
+G43,Pericardial Effusion
+G43,Pericarditis
+G43,Peripheral Vascular Diseases
+G43,Phlebitis
+G43,Phlebolgy
+G43,Pneumopericardium
+G43,Polyarteritis Nodosa
+G43,Postpericardiotomy Syndrome
+G43,Postphlebitic Syndrome
+G43,Pulmonary Heart Disease
+G43,Pulmonary Veno-Occulsive Disease
+G43,Raynauds Disease
+G43,Retinal Vein Occulsion
+G43,Rheumatic Heart Disease
+G43,Scimitar Syndrome
+G43,Shwartzman Phenomenon
+G43,Stroke
+G43,Spinal Cord Vascular Diseases
+G43,Superior Vena Cava Syndrome
+G43,Tachycardia
+G43,Telangiectasis
+G43,Thoracic Outlet Syndrome
+G43,Thromboangiitis Obiterans
+G43,Thrombophlebitis
+G43,Thrombosis
+G43,Varicose Veins
+G43,Variococele
+G43,Vascualr Fistula
+G43,Vascular Diseases
+G43,Vasculitis
+G43,Vasuclar Hemostatic Disorders
+G43,Venous Disorders
+G43,Venous Insufficiency
+G43,Ventricular Dysfunciton
+G43,Waldenstrom Macroglobulinemia
+G80,Waldenstrom Macroglobulinemia
+K35,Homeless Meals
+K35,Meals for Homeless People
+K35,Soup Kitchens
+W50,Communication Services
+W50,Electronic Messaging
+W50,Freenet Providers
+W50,Internet Service Providers
+W50,Rural Utilities
+W50,Telecommunications 
+W50,Telegraph
+W50,Telephone Systems
+W50,Wireless Communications Systems
+G51,Ankylosing Spondylitis
+G51,Chondrocalcinosis
+G51,Gout
+G51,Neurotrophic Arthritis
+G51,Osteoathritis
+G51,Palindromic Arthritis
+G51,Psoriatic Arthritis
+G51,Reiter Disease
+G51,Rheumatism
+G51,Rheumatoid Arthritis
+G51,Spondylarthritis
+L21,Farm Labor Housing Program
+L21,Federal Leased Housing
+L21,FMHA 515
+L21,Government Subsidized Housing
+L21,Housing and Urban Development Housing
+L21,Housing Authorities
+L21,HUD Housing
+L21,Leased Housing
+L21,Low and Moderate Income Housing
+L21,Low Income and Affordable Housing
+L21,Public Housing
+L21,Rent Subsidies
+L21,RHS Programs
+L21,Rural Housing Service
+L21,Section 202
+L21,Section 231
+L21,Section 236
+L21,Section 8
+L21,"Section 811, Section 221(d)(3)"
+L21,Section 221(d)(4)Subsidized Housing
+L21,Subsidized Rental Housing
+P31,Adoption Agencies
+P31,Adoptive Family Recruitment
+P31,Adoptive Parent/Child Search
+P31,Adoption Registry
+P31,Birth Child Location
+P31,Biological Parent Location
+P31,Birth Parent Location
+P31,Children
+P31,Court-Appointed Confidential Intermediaries
+P31,Natural Parent Location
+P31,International Adoption
+P31,Special Needs Adoption
+P31,Youth
+G80,Achlorhydria
+G80,Achylia Gastrica
+G80,Acne
+G80,Acneiform Eruptions
+G80,Acquired Language Disorders
+G80,Addisons Disease
+G80,Adiposis Dolorosa
+G80,Agent Orange
+G80,Agraphia
+G80,Amebiasis
+G80,Amyloidosis
+G80,Anemia
+G80,Anomia
+G80,Aphasia
+G80,Articulation Disorders
+G80,Avitaminosis
+G80,Besnier-Boeck Disease
+G80,Blind Loop Syndrome
+G80,Boecks Sarcoid Disease
+G80,Bovine Spongiform Encephalopathy (BSE)
+G80,Breast Diseases
+G80,Burns
+G80,Calcium Metabolism Disorders
+G80,Carpal Tunnel Syndrome
+G80,Cavernous Hemangioma
+G80,Celiac Disease
+G80,Chiari-Frommel Syndrome
+G80,Child Nutrition Disorders
+G80,Chlamydia
+G80,Cholera
+G80,Coagulation Defects
+G80,Communications Disorders
+G80,Cretinism
+G80,Creutzfeldt-Jakob Disease
+G80,Cryoglobulinemia
+G80,Cushing Syndrome
+G80,Deficiency Diseases
+G80,Dengue Fever
+G80,Dermatitis
+G80,Dermatomyositis
+G80,Dermatoses
+G80,Desert Storm Syndrome
+G80,Diabetes
+G80,Dysarthria
+G80,Dyslexia
+G80,Ebola Virus Hemorrhagic Fever
+G80,Echolalia
+G80,Eczema
+G80,Ehlers-Danlos Syndrome
+G80,Encephalitis
+G80,Endocrine Diseases
+G80,Epstein-Barr Virus
+G80,Erythema
+G80,Euthyroid Sick Syndromes
+G80,Exanthema
+G80,Expressive Language Disorder
+G80,Fifth Disease
+G80,Food Poisoning
+G80,Foodborne Infections
+G80,Foot Diseases
+G80,Frommels Disease
+G80,Galactorrhea
+G80,Genital Herpes
+G80,Genital Warts
+G80,Glucose Intolerance
+G80,Goiter
+G80,Gonadal Disorders
+G80,Gonorrhea
+G80,Graves Disease
+G80,Gynecomastia
+G80,Hair Diseases
+G80,Head Lice
+G80,Hemic Disease
+G80,Hemorrhagic Fevers
+G80,Hirsutism
+G80,Histiocytosis
+G80,Hookworm Infection
+G80,Hyperammonemia
+G80,Hyperbilirubinemia
+G80,Hyperglobulinemic Purpura
+G80,Hyperglycemia
+G80,Hyperinsulinemia
+G80,Hyperinsulinemia
+G80,Hyperinsulinism
+G80,Hyperlipidemia
+G80,Hyperoxaluria
+G80,Hyperparathyroidism
+G80,Hyperprolactinemia
+G80,Hyperthyroidism
+G80,Hyperthyroxinemia
+G80,Hypervitaminosis A
+G80,Hypochlorhydria
+G80,Hypoglycemia
+G80,Hypoparathyroidism
+G80,Hypothyroidism
+G80,Immunological Diseases
+G80,Immunoparasitology
+G80,Infectious Diseases
+G80,Injuries
+G80,Intertrigo
+G80,Iron Metabolism Disorders
+G80,Iron Overload
+G80,Iron-Deficiency Anemia
+G80,Juvenile Xanthogranuloma
+G80,Keratoacanthoma
+G80,Keratosis
+G80,Kimura Disease
+G80,Kussmaul Aphasia
+G80,Lactation Disorders
+G80,Lactose Intolerance
+G80,Language Disorders
+G80,Learning Disabilities
+G80,Lipodystrophy
+G80,Lupus
+G80,Lyme Disease
+G80,Lymphatic Diseases
+G80,Mad Cow Disease
+G80,Magnesium Deficiency
+G80,Malabsorption Syndromes
+G80,Malaria
+G80,Marchiafava-Micheli Syndrome
+G80,Mast-Cell Disease
+G80,Mastitis
+G80,Mastocytosis
+G80,Meningitis
+G80,Metabolic Diseases
+G80,Metabolic Skin Diseases
+G80,Metabolic Syndrome X
+G80,Mitochondrial Diseases
+G80,Mononucleosis
+G80,Myxedema
+G80,Nail Diseases
+G80,Narcolepsy
+G80,Necrobiosis Lipoidica
+G80,Necrobiotic Disorders
+G80,Neurodermatitis
+G80,Nutrition Disorders
+G80,Nutritional Diseases
+G80,Ochronosis
+G80,Orchitis
+G80,Orphan Diseases
+G80,Owrens Disease
+G80,Panniculitis
+G80,Papulosquamous Skin Diseases
+G80,Parasitology
+G80,Parasitic Diseases
+G80,Parathyroid Diseases
+G80,Persian Gulf Syndrome
+G80,Phosphorus Metabolism Disorders
+G80,Photosensitivity Disorders
+G80,Pickwickian Syndrome
+G80,Pigmentation Disorders
+G80,Pituitary Diseases
+G80,Pityriasis Lichenoides
+G80,Pityriasis Rosea
+G80,Pityriasis Rubra Pilaris
+G80,Plague
+G80,Potassium Deficiency
+G80,Protein Deficiency
+G80,Prurigo
+G80,Pruritus
+G80,Rare Diseases
+G80,Refetoff Syndrome
+G80,Refetoff-DeWind-DeGroot Syndrome
+G80,Reyes Syndrome
+G80,Rocky Mountain Spotted Fever
+G80,Roundworm
+G80,Sarcoidosis
+G80,Scabies
+G80,Schamberg Disease
+G80,Schaumann Disease
+G80,Schistosomiasis
+G80,Schoenlein-Henoch Purpura
+G80,Scleredema
+G80,Scurvy
+G80,Sexually Transmitted Diseases
+G80,Short Bowel Syndrome
+G80,Sleeping Sickness
+G80,Speech Disorders
+G80,Stammering
+G80,Stuart-Prower Disease
+G80,Stuttering
+G80,Syphilis
+G80,TB
+G80,Testicular Diseases
+G80,Thymus Hyperplasia
+G80,Thyroid Hormone Resistance Syndrome
+G80,Thyroiditis
+G80,Thyrotoxicosis
+G80,Tick-borne Diseases
+G80,Trauma
+G80,Trichomoniasis
+G80,Tropical Diseases
+G80,Tropical Sprue
+G80,Typhoid Fever
+G80,Varicocele
+G80,Venereal Diseases
+G80,Virilism
+G80,Vitamin Deficiency
+G80,Willebrand Disease
+G80,Warts
+G80,Wasting Disease
+G80,Wasting Syndrome
+G80,Water-Electrolyte Imbalance
+G80,Waterhouse-Friderichsen Syndrome
+G80,West Nile Encephalitis
+G80,West Nile Virus
+G80,Whipples Disease
+G80,Wounds
+G80,Xanthomatosis
+G80,Yellow Fever
+X20,Armenian Apostolic Church
+X20,Christ Catholic Church
+X20,Church of Cyprus
+X20,Church of Greece
+X20,Church of Jesus Christ of Latter Day Saints
+X20,Church of the Latter Day Saints
+X20,Coptic Christian
+X20,Eastern Catholicism
+X20,Eastern Orthodox
+X20,Greek Orthodox
+X20,Holy Apostolic Catholic Assyrian Church of the East
+X20,Mormon Church
+X20,Oriental Orthodox Church
+X20,Orthodox Church
+X20,Prayer Breakfasts
+X20,Russian Orthodox
+X20,Syrian Orthodox Church of Antioch
+P43,Battered Womens Hotlines
+P43,Battered Womens Shelters
+P43,Crisis Nurseries
+P43,Crisis Shelters
+P43,Domestic Violence Shelters
+P43,Family Crisis Shelters
+P43,Family Violence Shelters
+P43,Safe Houses
+L40,Bridge Housing for Homeless People
+L40,Emergency Housing
+L40,Temporary Accommodations
+L40,Transitional Housing
+L40,Transitional Living Centers
+L40,Transitional Shelter
+L40,Youth Hostels
+G92,Biomedical Engineering
+G92,Biomedicine
+G92,Clinical Engineering
+G92,Rehabilitation Engineering
+X50,Buddha
+X50,Buddhism
+X50,Buddhist Spiritual Retreats
+X50,Pilgrimages - Buddhism
+X50,Buddhist
+X50,Buddhist Temples
+X50,Zen
+P50,Assertiveness Training
+P50,Conflict Resolution Training
+P50,Consciousness-Raising Groups
+P50,Cultural Awareness/Competencies Training
+P50,Death and Dying Workshops
+P50,Disability Awareness
+P50,Emancipation Preparation
+P50,Individual Development
+P50,Information and Referrals
+P50,Interpersonal Communication Training
+P50,Life Skills Training
+P50,Marriage Enrichment
+P50,Meditation
+P50,Personal Enrichment
+P50,Personal Growth 
+P50,Relationship Workshops
+P50,Self-Esteem Workshops
+P50,Self-Help Groups
+P50,Sensitivity Training
+P50,Social Responsibility 
+P50,Social Skills Training
+P50,Stress Management
+P50,Team Building Activities
+P50,Yoga
+M20,Relief
+M20,Avalanches
+M20,Brush Fires
+M20,Catastrophe Planning
+M20,Chemical Emergencies
+M20,Civil Defense
+M20,Civil Unrest
+M20,Community Disaster Information
+M20,Debris Removal
+M20,Disaster Alert Systems
+M20,Disaster Donations
+M20,Disaster Hotlines
+M20,Disaster Information
+M20,Disaster Kits
+M20,Disaster Loans
+M20,Disaster Mitigation
+M20,Disaster Planning
+M20,Disaster Preparedness
+M20,Disaster Readiness
+M20,Disaster Recovery Centers
+M20,Disaster Relief/Recovery
+M20,Disaster Relief
+M20,Disaster Response
+M20,Disaster Service Centers
+M20,Disaster Services
+M20,Disaster-Specific Home Repairs
+M20,Disaster Specific Rent Assistance
+M20,Droughts
+M20,Early Warning Alerts
+M20,Earthquakes
+M20,Emergency Communications
+M20,Emergency Dispatch
+M20,Emergency Management
+M20,Emergency Preparedness/Response Training
+M20,Emergency Radio
+M20,Evacuation Plans
+M20,Explosions
+M20,Extreme Heat
+M20,Floods
+M20,Flood Protection and Control
+M20,Forest Fires
+M20,Grass Fires
+M20,Hazardous Materials Emergencies
+M20,Homeland Security
+M20,Hurricanes
+M20,Landslide/Mudslides
+M20,Natural Disasters
+M20,Nuclear Emergencies
+M20,Post-Disaster Clean-Up
+M20,Post-Disaster Housing Assistance
+M20,Post-Disaster Housing Databanks/Referrals
+M20,Post-Disaster Rebuilding Assistance
+M20,Post-Disaster Volunteer Management
+M20,Radiological Emergencies
+M20,Snowstorms
+M20,Terrorism
+M20,Thunderstorms
+M20,Tidal Waves
+M20,Tornados
+M20,Tsunamis
+M20,Volcanic Eruptions
+M20,Wildfires
+M20,Wildland Fires
+M20,Winter Storms
+M20,Woodland Fires
+P61,Consulates/Foreign Government Representatives
+P61,Customs Assistance
+P61,Emergency Road Service
+P61,Foreign Currency Exchange
+P61,Foreign Visitor Assistance
+P61,International Travel Advisories
+P61,Tourist Information
+P61,Towing
+P61,Travelers Assistance
+P61,Stranded Motorist Assistance
+I40,Bail Assistance
+I40,Correctional Restitution
+I40,Court Referral
+I40,Day Reporting Centers
+I40,Electronic Monitoring of Detention
+I40,Ex-Offender Counseling
+I40,Ex-Offender Reentry
+I40,Juvenile Parole
+I40,Parole
+I40,Pre-Release
+I40,Pretrial Electronic Monitoring
+I40,Pretrial Release
+I40,Probation
+I40,Restorative Justice
+I40,Teen Court
+I40,Victim/Offender Reconciliation
+I40,VORP
+I40,Work Furlough
+I40,Work Release
+I40,Youth Court
+P74,Facility-Based Hospice Care
+P74,Hospitals for the Dying
+P74,In-Home Hospice Care
+P74,Institutional Hospice Care
+P74,Palliative Care
+P74,Supportive Care for the Dying
+P74,Terminal Illness Care
+I60,Fraternal Order of Police
+I60,K-9 Police team
+I60,Law Enforcement Agencies
+I60,Police Academies
+I60,Police Auxiliaries
+I60,Police Benefit Associations
+I60,Police Benevolent Associations
+I60,Police Chaplains
+I60,Police Departments
+I60,Police Protective Associations
+I60,Police Reserves
+I60,Police Training
+I60,Sheriffs Associations
+I60,Sheriff's Posse
+I60,Sheriffs Posse
+P84,Citizenship Assistance Centers
+P84,Cultural Orientation
+P84,Cultural Transition Facilitation
+P84,Immigrant Centers
+P84,Immigrant Services
+P84,Immigrant Support
+P84,Interpreters
+P84,Language Interpretations
+P84,Language Translations
+P84,Refugee Resettlement
+I80,Court-appointed Counsel
+I80,Discrimination Assistance
+I80,Fair Housing
+I80,Fair Housing Counseling
+I80,Guardians ad Litem
+I80,Guardianship
+I80,Housing Discrimination Assistance
+I80,Housing Discrimination Counseling
+I80,Landlord/Tenant Law
+I80,Legal Aid
+I80,Legal Aid to the Poor
+I80,Legal Counseling
+I80,Legal Representation
+I80,Legal Services for Indigents
+I80,Pro Bono Cases
+I80,Public Defenders
+J22,Apprenticeship & Training Trusts
+J22,Apprenticeships
+J22,Community Work & Training
+J22,Employment Training
+J22,Field Experience
+J22,Industrial Training
+J22,In-service Training
+J22,Internships
+J22,Job Corps
+J22,Job Training
+J22,Jobs Training Partnership Act
+J22,JTPA
+J22,JTPA Summer
+J22,Manpower Training
+J22,Occupational Training
+J22,On-the-Job Training
+J22,Personnel Training
+J22,Practice Teaching
+J22,Practicums
+J22,Public Employment & Training
+J22,Residency
+J22,School to Career
+J22,School to Work
+J22,Student Field Work
+J22,Summer Youth Employment
+J22,Title IIA
+J22,Title IIB
+J22,Title IIC
+J22,Welfare to Work
+J22,WIA
+J22,Work & Training
+J22,Work Experience
+J22,Workfare
+J22,Workforce Development
+J22,Workforce Investment Act
+J22,Youth Corps
+J22,Youth Job Training & Employment
+R26,Gay Rights
+R26,Homosexual Rights
+R26,Lesbian Rights
+O30,Adult/Child Matching
+O30,Adult/Child Mentoring
+O30,Big Friends
+O30,Foster Grandparents
+O30,Intergenerational Programs
+K31,Food Banks
+K31,Food Clearinghouse
+K31,Food Closet
+K31,Food Outlets
+K31,Food Pantries
+K31,Food Supplement Distribution
+K31,Free Food Distribution
+K31,Surplus Commodity Distribution
+R61,Abortion Rights
+R61,Pro-Choice Advocacy
+R61,Right to Choose
+K50,Family Life
+K50,Homemaking
+K50,Housekeeping
+W30,Air Force
+W30,American Legion
+W30,Armed Forces of the United States
+W30,Army
+W30,Coast Guard
+W30,Marine Corps
+W30,Military Chaplains
+W30,National Guard
+W30,Navy
+W30,Veterans Affairs 
+W30,Veterans of Foreign Wars
+W30,VFW
+W30,War Veterans
+O43,Adventure
+O43,Camp Fire USA
+O43,Discovery
+O43,Horizon
+O43,Starflight
+O54,Boys Nation
+O54,Boys State
+O54,Citizenship Programs for Youth
+O54,Girls Nation
+O54,Girls State
+O54,HI-Y Leadership Center
+O54,Kids Voting
+O54,Mock Elections
+O54,Model United Nations Assemblies
+O54,Presidential Classroom
+O54,United States Senate Youth Program
+O54,Youth Citizenship
+O54,Youth in Government
+O54,Youth Republic
+W80,Electric Generating Plants
+W80,Electrification
+W80,Energy Generating Resources
+W80,Energy Suppliers
+W80,Energy Suppliers
+W80,Gas Services
+W80,Light Companies
+W80,Natural Gas Services
+W80,Power Generating Plants
+W80,Propane Services
+W80,Public Utilities
+W80,Rural Water Companies
+W80,Sanitary Services
+W80,Utility Systems
+W80,Water & Sewer Services
+W80,Water Rights
+W80,Water Systems
+W80,Waterworks
+L81,Bathroom Accessibility Modifications
+L81,Christmas in April
+L81,Energy Conservation Home Improvement
+L81,Energy Conservation Rebates
+L81,Home Barrier Evaluation
+L81,Home Barrier Removal
+L81,Home Energy Conservation
+L81,Home Improvement
+L81,Home Rehabilitation
+L81,Home Repairs
+L81,Insulation
+L81,Kitchen Accessibility Modifications
+L81,Ramp Construction
+L81,Weather Stripping
+L81,Weatherization
+X30,Chabad
+X30,Eruv
+X30,Habonim-Dror
+X30,Hebrew School
+X30,Jewish Camps
+X30,Jewish Religion
+X30,Jewish Spiritual Retreats
+X30,Judaism
+X30,Labavitch
+X30,Mikvah
+X30,Noahide
+X30,Passover Seders
+X30,Pesach Seders
+X30,Sukout
+X30,Synagogues
+X30,Talmud
+X30,Torah
+P40,Child Development Classes
+P40,Companionship Programs
+P40,Co-Parenting Workshops
+P40,Expectant/New Parent Assistance
+P40,Family Life Education
+P40,Family Preservation
+P40,Family Reunification
+P40,Family Strengthening
+P40,Family-Based Services
+P40,Mothers of Multiple Births
+P40,Parent Education
+P40,Parenting Education
+P40,Parenting Skills
+N20,Art and Music Camps
+N20,Art Camps
+N20,Athletic Camps
+N20,Computer Camps
+N20,Dance Camps
+N20,Day Camps
+N20,Music Camps
+N20,Performning Arts Camps
+N20,Recreational Camps
+N20,Residential Camps
+N20,Special Interest Camps
+N20,Sports Camps
+N20,Summer Camps
+N20,Therapeutic Camps
+P46,Christian Counseling
+P46,Christian Support Services
+P46,Conciliation Counseling
+P46,Marital Counseling
+P46,Marital Counseling
+P46,Marriage Counseling
+P46,Marriage Encounter
+P46,Pastoral Counseling
+P46,Premarital Counseling
+P46,Religious Counseling
+P46,Spiritual Counseling
+L42,Cooling Centers
+L42,Cooling Site
+L42,Cooling Sites
+P58,Christmas Assistance
+P58,Christmas Baskets
+P58,Christmas Clearing Bureaus
+P58,Christmas Food Baskets
+P58,Christmas Gifts
+P58,Christmas Toys
+P58,Christmas Trees
+P58,Easter Assistance
+P58,Easter Events
+P58,Easter Food Baskets
+P58,Holiday Assistance
+P58,Holiday Adoption 
+P58,Holiday Cash Grants
+P58,Holiday Donations
+P58,Mothers Day Assistance
+P58,Passover Assistance
+P58,Ramadan Assistance
+P58,Thanksgiving Food Baskets
+P58,Toys for Tots
+O41,Boy Scouts
+O41,Cub Scouts
+O41,Eagle Scouts
+O41,Explorers
+P71,Adult Day Care Centers
+P71,Adult Day Health Care
+P71,Adult Development Centers for Persons with Disabilities
+P71,Adult Family Day Care Homes
+P71,Developmentally Disabled Day Care
+P71,In-Home Adult Care
+P71,Non-residential Care
+P71,Senior Day Care
+P71,Special Day Care
+P71,Special Non-Residential Day Care
+P81,Agency on Aging
+P81,Comprehensive Senior Services
+P81,Independence of the Elderly
+P81,Senior Citizen Centers
+O52,H Clubs
+O52,Agricultural Leadership Programs for Youth
+O52,Four-H Clubs
+O52,FFA
+O52,Future Farmers of America
+P87,American Sign Language Interpretation
+P87,AMESLAM Interpretation
+P87,Deaf Relay Services
+P87,Sign Language Interpretation
+P87,Telecommunication Relay Services
+P87,TTD Linkage
+P20,Catholic Human Services
+P20,Catholic Social Services
+P20,Community Services
+P20,Jewish Human Services
+P20,Lutheran Aid Societies
+P20,Lutheran Social Services
+P20,Multipurpose Human Services
+P20,Protestant Human Services
+P20,Religious Welfare
+P20,Saint Vincent DePaul Society
+P20,United Service Organizations
+P20,United Services
+E41,Obstetrics
+E41,Gynecology
+E41,Gynaecology
+E41,Obstetrician
+E41,Gynecologist
+E41,Gynaecologist
+E41,OB-GYN
+E41,OBGYN
+E41,Female reproductive
+E41,Pregnancy
+E41,Pregnant
+E41,Childbirth
+E41,Postpartum
+E41,Prenatal
+E41,Intranatal
+E41,Neonatal
+E41,Postnatal
+E41,Natal
+E41,Partum
+R23,Disability Rights
+R23,Handicapped Persons Rights
+R23,Handicapped Rights
+R40,Election Regulation
+R40,League of Women Voters
+R40,Voter Education
+R40,Voter Participation
+R40,Voter Registration
+R40,Voter Turnout
+P32,Foster Care for Adults with Disabilities
+P32,Foster Care for Children with Disabilities
+P32,Foster Care for Dependent Children
+P32,Foster Home Care
+P32,Foster Home Placement
+P32,Foster Homes
+P32,Foster Parent/Family Recruitment
+P32,Therapeutic Foster Care
+P44,Errand Running
+P44,Grocery Delivering
+P44,Homemaker Assistance
+P44,Home Health Aide
+P44,Home Maintenance
+P44,Housekeeping Assistance
+P44,In-Home Assistance
+P44,In-Home Hairdressing
+P44,In-Home Meal Preparation
+P44,Personal Care
+P44,Secretarial Assistance
+P44,"Yard Work
+See also: Home Health Care
+"
+R67,Assisted Suicide
+R67,Death with Dignity
+R67,Do Not Resuscitate Orders
+R67,Doctor Assisted Death
+R67,Doctor Assisted Suicide
+R67,Euthanasia
+R67,Hemlock Society
+R67,Living Wills
+R67,Mercy Killings
+R67,Physician Assisted Death
+R67,Physician Assisted Suicide
+R67,Rationale Suicide
+R67,Right to Die
+P51,Bankruptcy Assistance
+P51,Bill interpretation Assistance
+P51,Credit Counseling
+P51,Credit Denial Assistance
+P51,Credit Rating Assistance
+P51,Debt Consolidation
+P51,Debt Management
+P51,Debt Repayment Counseling
+P51,Debt Liquidation Counseling
+P51,Financial Counseling
+P51,Financial Record Keeping Assistance
+P51,Investment Counseling
+P51,Money Management
+P51,Mortgage Default Assistance
+P51,Personal Finances Administration
+P51,Personal Financial Management Counseling
+P51,Property Lien Assistance
+P51,Protective Payee Services
+P51,Repossession Assistance
+P51,Representative Payee Services
+P51,Tax Assistance
+P51,Taxpayer Assistance
+P51,Tax Payer Assistance
+P62,Court Appearance Advice
+P62,Court Appearance Guidance
+P62,Court Proceedings Information
+P62,Crime Victims
+P62,Filing Assistance for Crime-Related Expenses
+P62,Filing Assistance for Crime-Related Losses
+P62,Victims
+P62,Escort Services
+P62,Victims Protective Services
+P75,Assisted Living
+P75,Boarding Care Facilities
+P75,CCRCs
+P75,Continuing Care Retirement Communities
+P75,Group Homes for Seniors
+P75,Housing for the Elderly
+P75,Life Care Communities
+P75,Lifecare Communities
+P75,Personal Care Homes
+P75,Residential Care Facilities for the Elderly
+P75,Senior Board & Care
+P75,Senior Foster Care
+P75,Senior Residential Care Homes
+P75,Senior Residential Facilities
+W60,Banks
+W60,Check Cashing
+W60,Investment Management 
+W60,Investments & Securities 
+W60,Savings & Loan Associations
+W60,Thrift Institutions
+W60,Trust Companies
+P85,Homeless Day Centers
+P85,Homeless Drop-In Centers
+P85,Homeless Persons Centers
+P85,Homeless Persons Services
+P85,Missions
+P85,Shower Facilities/Public Restrooms
+P85,Telephone Facilities
+P85,Temporary Mailing Address
+R20,Discrimination of Specific Groups
+R20,Equal Rights
+R20,Immigrant Rights
+R20,Refugee Rights
+X21,Advent Christian Church
+X21,African Methodist Episcopal Church
+X21,African Methodist Episcopal Zion Church
+X21,AME Church
+X21,Amish
+X21,Anabaptist
+X21,Anglican Church
+X21,Apostolic Arminian Church
+X21,Assemblies of Christ
+X21,Apostolic Assembly of the Faith in Christ Jesus
+X21,Apostolic Christian Church
+X21,Apostolic Faith Church
+X21,Apostolic Overcoming Holy Church of God (A.O.H.)
+X21,Assembly of God Church
+X21,Baptist Church
+X21,Berean Fundamental Church
+X21,Bible Church of Christ
+X21,Born Again Christians
+X21,Brethren Church
+X21,Brethren in Christ
+X21,Calvary Chapel
+X21,Christ Gospel Church
+X21,Christadelphian
+X21,Christian & Missionary Alliance
+X21,Christian Church
+X21,Christian Churches of God
+X21,Christian Reformed Church
+X21,Christian Science
+X21,Church of Christ
+X21,"Church of Christ, Scientist"
+X21,Church of God
+X21,Church of Our Lord Jesus Christ
+X21,Church of South India (CSI)
+X21,Church of the Brethren
+X21,Church of the Nazarene
+X21,Community of Christ
+X21,Congregational Church
+X21,Covenant Church
+X21,Disciples of Christ
+X21,Episcopal Church
+X21,Evangelical Bible Church
+X21,Evangelical Bible Churches
+X21,Evangelical Christian Church
+X21,Evangelical Formosan Church
+X21,Evangelical Free Church
+X21,Evangelicals
+X21,Evangelism
+X21,Foursquare Church
+X21,House of God Saints in Christ
+X21,International Church of the Foursquare Gospel
+X21,International Pentecostal Church of Christ
+X21,Jehovahs Witnesses
+X21,Lutheran Church
+X21,Mennonite Church
+X21,Methodist Church
+X21,Metropolitan Community Church
+X21,Missionary Church
+X21,Moravian Church
+X21,Netherlands Reformed Congregations
+X21,Pentecostal Church of God
+X21,Pentecostal Church
+X21,Pentecostal Holiness Church
+X21,Presbyterian Church
+X21,Protestant Reformed Church
+X21,Protestant
+X21,"Quakers, Redeemed Christian Church of God"
+X21,Reformed Church
+X21,Religious Society of Friends
+X21,Salvationists
+X21,Seventh-day Adventist Church
+X21,Shakers
+X21,Swedenborgian Church
+X21,United Church of Christ
+X21,United Holy Church
+X21,United Pentecostal Church
+X21,Unity
+X21,Victory Church
+X21,Vineyard Christian Fellowship
+X21,Vineyard Church
+X21,Wesleyan Church
+R28,CASA
+R28,Child Advocacy
+R28,Court Appointed Special Advocates
+R62,Anti-Abortion
+R62,Fetal Rights
+R62,Pro-Life Advocacy
+X70,Ashram
+X70,Hindu Spiritual Retreats
+X70,Hinduism
+X70,Pilgrimages - Hinduism
+X70,Vedic
+W40,Air Traffic Control
+W40,Air Transportation
+W40,Airline Terminals
+W40,Airports
+W40,Bus Shelters
+W40,"Buses, Cable Cars"
+W40,"Commuter Rail, Ferry Boats"
+W40,Light-Rail Systems
+W40,Mass Transit
+W40,Pedestrian Shelters
+W40,Public Transportation
+W40,Public Transportation Systems
+W40,Rail Transportation
+W40,Railroads
+W40,Railways
+W40,Rapid Transit Systems
+W40,Roadways
+W40,Streetcars
+W40,Subways
+W40,Trains
+W40,Trolleys
+W40,Urban Mass Transit
+W90,Consumer Complaints
+W90,Consumer Education
+W90,Consumer Fraud
+W90,Consumer Product Safety
+W90,Consumer Protection
+W90,Consumer Safety
+X40,Hajj
+X40,Islam
+X40,Islamic Spiritual Retreats
+X40,Mohammedanism
+X40,Moslems
+X40,Mosques
+X40,Muslims
+X40,Islamic Temples
+X40,Koran
+X40,Pilgrimages - Islam
+X40,Quran
+E39,Oral Health
