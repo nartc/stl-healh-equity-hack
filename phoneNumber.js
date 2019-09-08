@@ -1,5 +1,6 @@
 const puppeteer = require('puppeteer');
 const mongo = require('mongodb');
+const { getHour } = require('./utils');
 
 let result = 0;
 
@@ -40,35 +41,6 @@ client.connect(err => {
     }
   });
 });
-
-const formatTime = time => {
-  const lastTwo = time.substr(-2);
-  const timeVal = time.split(lastTwo)[0];
-  const isAm = lastTwo === 'AM';
-
-  const [hour, minute] = timeVal.split(':');
-
-  return !!minute
-    ? isAm
-      ? `${hour}:${minute}`
-      : `${Number(hour) + 12}:${minute}`
-    : isAm
-    ? `${hour}:00`
-    : `${Number(hour) + 12}:00`;
-};
-
-const getHour = hour => {
-  if (hour === 'Closed') {
-    return '00:00-00:00';
-  }
-
-  if (hour === 'Open 24 hours') {
-    return '00:00-24:00';
-  }
-
-  const [open, close] = hour.split('–');
-  return `${formatTime(open)}-${formatTime(close)}`;
-};
 
 const getPhoneNumAndHours = async query => {
   console.log('----------------------------------------');

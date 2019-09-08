@@ -11,7 +11,10 @@ const eins = [];
 
 const getHours = (day, hours) => {
   const [opens_at, closes_at] = hours.find(h => h.day === day).hour.split('-');
-  return { opens_at, closes_at };
+  return {
+    opens_at: opens_at.length < 5 ? `0${opens_at}` : opens_at,
+    closes_at
+  };
 };
 
 client.connect(err => {
@@ -35,17 +38,16 @@ client.connect(err => {
           name: doc.NAME
         };
 
-        if (doc.hours && doc.hours.length) {
-          reqJson.data[doc.EIN] = {
-            hours: {
-              sunday: getHours('sunday', doc.hours),
-              monday: getHours('monday', doc.hours),
-              tuesday: getHours('tuesday', doc.hours),
-              wednesday: getHours('wednesday', doc.hours),
-              thursday: getHours('thursday', doc.hours),
-              friday: getHours('friday', doc.hours),
-              saturday: getHours('saturday', doc.hours)
-            }
+        if (doc.HOURS && doc.HOURS.length) {
+          console.log(doc.NAME, doc.HOURS);
+          reqJson.data[doc.EIN]['hours'] = {
+            sunday: getHours('sunday', doc.HOURS),
+            monday: getHours('monday', doc.HOURS),
+            tuesday: getHours('tuesday', doc.HOURS),
+            wednesday: getHours('wednesday', doc.HOURS),
+            thursday: getHours('thursday', doc.HOURS),
+            friday: getHours('friday', doc.HOURS),
+            saturday: getHours('saturday', doc.HOURS)
           };
         }
 
